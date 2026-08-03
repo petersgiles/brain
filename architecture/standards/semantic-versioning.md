@@ -1,7 +1,7 @@
 ---
 name: semantic-versioning
 type: standard
-description: MAJOR.MINOR.PATCH — MINOR only for changes that require an operator to do something to keep working; PATCH for everything else, including new backward-compatible features.
+description: MAJOR.MINOR.PATCH — MAJOR is a product-launch decision, not a technical one; MINOR is for changes that require an operator to act; PATCH is everything else, including new backward-compatible features.
 ---
 
 Every release is tagged `MAJOR.MINOR.PATCH`. For a continuously-deployed
@@ -25,10 +25,13 @@ semver:
   benefiting from their existing setup doesn't earn a MINOR bump just for
   being new; the deciding question is "does an operator have to act,"
   not "is this new."
-- **MAJOR** is reserved for something more fundamental than routine
-  operational work — a different generation of the product, not
-  exercised by day-to-day feature/config changes. Crossing `1.0.0` itself
-  is the same kind of deliberate, rare act.
+- **MAJOR** is a product decision, not a technical one — it changes when
+  there's an official launch of a new complete version of the product,
+  full stop. No amount of accumulated features, breaking config changes,
+  or internal rework bumps it on its own; only the deliberate call that
+  "this is the next product release" does. Crossing `1.0.0` is the same
+  kind of act: the first official launch, not a technical milestone like
+  "feature-complete" or "stable API."
 
 If a project *does* have external consumers who read this version number
 to decide whether to upgrade (a published library, a public API), fall
