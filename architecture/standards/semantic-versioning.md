@@ -1,35 +1,44 @@
 ---
 name: semantic-versioning
 type: standard
-description: MAJOR.MINOR.PATCH — MAJOR for anything that requires operator action to keep working, MINOR for backward-compatible additions, PATCH for backward-compatible fixes.
+description: MAJOR.MINOR.PATCH — MINOR only for changes that require an operator to do something to keep working; PATCH for everything else, including new backward-compatible features.
 ---
 
-Every release is tagged `MAJOR.MINOR.PATCH`:
+Every release is tagged `MAJOR.MINOR.PATCH`. For a continuously-deployed
+application with no external consumers reading a changelog to decide
+whether it's safe to upgrade — as opposed to a published library or a
+versioned public API — the practical line sits differently than textbook
+semver:
 
-- **MAJOR** increments for a breaking change — anything that requires
-  action (by an operator, a deployment, or a caller) before the system
-  keeps working the same way it did. For a deployed application, not just
-  a published library, that includes: a renamed or newly-required config
-  key, a config file format change, a database migration that isn't
-  backward compatible, a removed or reshaped API endpoint an existing
-  caller depends on, a changed wire contract. "The public function
-  signature changed" is the library-centric definition; it's too narrow
-  for anything with no external consumers of its source-level API but
-  real consumers of its config, its endpoints, or its data.
-- **MINOR** increments for a backward-compatible addition — a new
-  feature, a new optional config key with a sensible default, a new
-  endpoint — that doesn't require anyone to change anything to keep
-  working.
-- **PATCH** increments for a backward-compatible fix — a bug fix, a
-  visual or copy change, a refactor with no observable behavior change.
+- **MINOR** increments for anything that requires an operator to do
+  something before the system keeps working the same way it did: a
+  renamed or newly-required config key, a config file format change, a
+  non-backward-compatible migration, a removed or reshaped endpoint an
+  existing caller depends on. This is what a library would call a
+  breaking (MAJOR) change — for an app whose only "consumers" are its own
+  deployments, requiring a config/deploy-time action is a MINOR-level
+  event, not a MAJOR one.
+- **PATCH** increments for everything backward-compatible: bug fixes,
+  visual/copy changes, refactors with no observable behavior change —
+  *and* new features, toggles, or new optional config with a safe
+  default. A new capability that nobody has to do anything to keep
+  benefiting from their existing setup doesn't earn a MINOR bump just for
+  being new; the deciding question is "does an operator have to act,"
+  not "is this new."
+- **MAJOR** is reserved for something more fundamental than routine
+  operational work — a different generation of the product, not
+  exercised by day-to-day feature/config changes. Crossing `1.0.0` itself
+  is the same kind of deliberate, rare act.
 
-Below `1.0.0`, none of this is guaranteed yet — a pre-1.0 version signals
-"the interface can still change without notice," which is why crossing
-`1.0.0` itself is a meaningful, deliberate act, not just another bump.
+If a project *does* have external consumers who read this version number
+to decide whether to upgrade (a published library, a public API), fall
+back to textbook semver instead: MAJOR for breaking, MINOR for
+backward-compatible additions, PATCH for backward-compatible fixes. The
+distinction above only applies once there's no such audience.
 
 **Why it matters:** a version number is a promise a consumer relies on
-without reading the changelog — seeing only the PATCH digit change is
-what lets someone deploy an update without re-checking their own config
-or integration. Under-counting a breaking change as a PATCH (or a MINOR)
-breaks that promise silently, and the first sign of it is usually a
-production incident, not a code review comment.
+without reading the full changelog. For an internal app, the promise
+that matters in practice is narrower — "did the PATCH-to-PATCH bump
+require me to touch config" — and bumping MINOR for routine new features
+dilutes that signal, making every release look like it might need
+attention when almost none of them do.

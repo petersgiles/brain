@@ -65,7 +65,7 @@ something new, bottom-up when reviewing whether existing code follows it:
 - [Inferred values get their own field](standards/inferred-values-get-their-own-field.md) — a sibling flag, never an overloaded meaning.
 - [Normalize correlation keys once per direction](standards/normalize-correlation-keys-once-per-direction.md) — one place in, one place out.
 - [Verify against a running instance](standards/verify-against-a-running-instance.md) — closest analog to production, not ad hoc execution.
-- [Semantic versioning](standards/semantic-versioning.md) — MAJOR for anything requiring operator action, MINOR for additions, PATCH for fixes.
+- [Semantic versioning](standards/semantic-versioning.md) — MINOR for anything requiring operator action, PATCH for everything else including new features.
 
 ## Glossary
 
