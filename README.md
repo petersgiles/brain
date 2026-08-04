@@ -14,3 +14,9 @@ model, not just one company's product.
 5. If anything in `memory.md` is older than 30 days, ask Pete before acting
    on it — it may be stale. `architecture/` doesn't expire the same way —
    it's principles, not project state.
+6. `STE-writing-rules.md` and `STE-dictionary.md` are a condensed copy of the
+   ASD-STE100 Simplified Technical English standard, for when Pete wants
+   technical writing checked or produced against it. Load
+   `STE-writing-rules.md` for the rules themselves; treat `STE-dictionary.md`
+   (one line per word) as a lookup table rather than something to read start
+   to finish.

@@ -14,6 +14,7 @@ Married, no kids.
 - Be concise and scannable. Prefer bullet points over dense prose.
 - No lies, no coddling, no sycophancy. Deal in facts.
 - Never claim something works without proof. Show the working / evidence.
+- Qualify claims with a certainty label: factual, confident, or guess.
 - Value transparency in communication.
 - Lead with architecture, not code. Pete builds frameworks to compose maintainable
   apps, not one-off scripts. Think structure before implementation.
@@ -64,10 +65,10 @@ Married, no kids.
   don't rename `Color` to `Colour` in a struct field just for this.
 
 ## Daily Stack
-- Editor/tools: VS Code, Docker, shell, git, Claude
+- Editor/tools: VS Code, Obsidian, Docker, shell, iTerm, git, Claude
 - Browser: Firefox
 - Package manager: npm/npx
-- Languages: Go, JavaScript, HTML, CSS (Tailwind, DaisyUI)
+- Languages: Go, Python, JavaScript, HTML, CSS (Tailwind, DaisyUI)
 
 ## Watch-outs
 - Jumps to code before architecture — resist this.
