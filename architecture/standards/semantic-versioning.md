@@ -10,6 +10,13 @@ whether it's safe to upgrade — as opposed to a published library or a
 versioned public API — the practical line sits differently than textbook
 semver:
 
+- **MAJOR** is a product decision, not a technical one — it changes when
+  there's an official launch of a new complete version of the product,
+  full stop. No amount of accumulated features, breaking config changes,
+  or internal rework bumps it on its own; only the deliberate call that
+  "this is the next product release" does. Crossing `1.0.0` is the same
+  kind of act: the first official launch, not a technical milestone like
+  "feature-complete" or "stable API."
 - **MINOR** increments for anything that requires an operator to do
   something before the system keeps working the same way it did: a
   renamed or newly-required config key, a config file format change, a
@@ -25,13 +32,6 @@ semver:
   benefiting from their existing setup doesn't earn a MINOR bump just for
   being new; the deciding question is "does an operator have to act,"
   not "is this new."
-- **MAJOR** is a product decision, not a technical one — it changes when
-  there's an official launch of a new complete version of the product,
-  full stop. No amount of accumulated features, breaking config changes,
-  or internal rework bumps it on its own; only the deliberate call that
-  "this is the next product release" does. Crossing `1.0.0` is the same
-  kind of act: the first official launch, not a technical milestone like
-  "feature-complete" or "stable API."
 
 If a project *does* have external consumers who read this version number
 to decide whether to upgrade (a published library, a public API), fall
