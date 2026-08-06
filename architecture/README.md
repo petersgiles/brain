@@ -51,6 +51,7 @@ something new, bottom-up when reviewing whether existing code follows it:
 - [Two independent pipelines](patterns/two-independent-pipelines.md) — don't share derived state between differently-timed renderers.
 - [Single observable stream](patterns/single-observable-stream.md) — one writer, many subscribers, client-side.
 - [Design-sketch-before-code](patterns/design-sketch-before-code.md) — write the fit/strain/non-scope sections before implementing.
+- [Noun-verb interaction diagram](patterns/noun-verb-interaction-diagram.md) — one page, entities as nodes, verbs as edges, scoped to core behavior.
 - [Boring composition over dynamic loading](patterns/boring-composition-over-dynamic-loading.md) — one static import beats runtime plugin loading.
 
 ## Standards
