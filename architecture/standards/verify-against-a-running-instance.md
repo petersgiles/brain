@@ -15,3 +15,7 @@ embedded in the shipped system afterward.
 actual runtime environment" are different claims, and the gap between them
 (missing env vars, different filesystem layout, different network
 boundaries) is exactly where deploy-time surprises come from.
+
+See [[restart-before-rebuild]] for how to keep that running instance cheap
+to refresh day-to-day, so verifying against it stays the path of least
+resistance rather than something worth skipping.
