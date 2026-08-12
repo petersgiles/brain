@@ -53,6 +53,8 @@ something new, bottom-up when reviewing whether existing code follows it:
 - [Design-sketch-before-code](patterns/design-sketch-before-code.md) — write the fit/strain/non-scope sections before implementing.
 - [Noun-verb interaction diagram](patterns/noun-verb-interaction-diagram.md) — one page, entities as nodes, verbs as edges, scoped to core behavior.
 - [Boring composition over dynamic loading](patterns/boring-composition-over-dynamic-loading.md) — one static import beats runtime plugin loading.
+- [Restart before rebuild](patterns/restart-before-rebuild.md) — a dev container's default refresh is a restart; rebuild only when a dependency manifest actually changed.
+- [Layered secret scanning](patterns/layered-secret-scanning.md) — a local pre-commit scanner plus a CI scan, since neither alone is enforcement; baseline pre-existing findings so it fails only on what's new.
 
 ## Standards
 
