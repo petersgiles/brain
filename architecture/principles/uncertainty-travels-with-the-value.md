@@ -4,7 +4,7 @@ type: principle
 description: When a value is inferred or defaulted rather than observed, carry that fact as an explicit typed signal — never present a guess as a fact.
 ---
 
-When a value is inferred, defaulted, or synthesized rather than directly
+When a value is inferred, defaulted, or synthesised rather than directly
 observed, that fact travels with the value as an explicit, typed signal —
 never presented indistinguishably from a real, observed value.
 

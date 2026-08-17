@@ -39,6 +39,20 @@ something new, bottom-up when reviewing whether existing code follows it:
 - [Well-formed interface](principles/well-formed-interface.md) — discoverable, addressable, understandable, trustworthy, natively accessible, interoperable, valuable alone, secure.
 - [Bounded contexts](principles/bounded-contexts.md) — a concept's meaning is authoritative only within its boundary.
 - [Ubiquitous language](principles/ubiquitous-language.md) — code and domain conversation share exactly one vocabulary.
+- [Modularity](principles/modularity.md) — simple parts connected by clean interfaces, so most problems stay local.
+- [Clarity over cleverness](principles/clarity-over-cleverness.md) — write for the human maintainer, not for a small performance win.
+- [Separate policy from mechanism](principles/separate-policy-from-mechanism.md) — what changes fast and how it's done mutate on different timescales.
+- [Design for transparency](principles/design-for-transparency.md) — build in visibility to internal state from the start.
+- [Robustness through simplicity](principles/robustness-through-simplicity.md) — robustness falls out of transparency and simplicity, it isn't a separate feature.
+- [Fold knowledge into data](principles/fold-knowledge-into-data.md) — prefer complexity in a data structure over complexity in procedural logic.
+- [Least surprise](principles/least-surprise.md) — an interface should do what its audience already expects.
+- [Purposeful silence](principles/purposeful-silence.md) — say nothing when there's nothing surprising to report.
+- [Economise programmer time](principles/economise-programmer-time.md) — programmer time is the expensive resource; default to spending machine time instead.
+- [Prefer generated code](principles/prefer-generated-code.md) — write a generator for repetitive, error-prone hand-written shapes.
+- [Prototype before polishing](principles/prototype-before-polishing.md) — get it working, un-optimised, before tuning it.
+- [Distrust one true way](principles/distrust-one-true-way.md) — no design is optimised for every case its designer didn't anticipate.
+- [Scoped extensibility](principles/scoped-extensibility.md) — self-describing formats for contracts you don't fully control, not license for speculative code generality.
+- [Public interfaces are one-way doors](principles/public-interfaces-are-one-way-doors.md) — you can add to a shipped interface freely, but removing or reshaping it costs whoever already depends on it.
 
 ## Patterns
 
@@ -66,7 +80,7 @@ something new, bottom-up when reviewing whether existing code follows it:
 - [One declaration site per config key](standards/one-declaration-site-per-config-key.md) — no raw env reads outside the loader.
 - [Subsystem-prefixed env vars](standards/subsystem-prefixed-env-vars.md) — one exact prefix per dependency, one consistent attribute suffix style.
 - [Inferred values get their own field](standards/inferred-values-get-their-own-field.md) — a sibling flag, never an overloaded meaning.
-- [Normalize correlation keys once per direction](standards/normalize-correlation-keys-once-per-direction.md) — one place in, one place out.
+- [Normalise correlation keys once per direction](standards/normalise-correlation-keys-once-per-direction.md) — one place in, one place out.
 - [Verify against a running instance](standards/verify-against-a-running-instance.md) — closest analog to production, not ad hoc execution.
 - [Semantic versioning](standards/semantic-versioning.md) — MAJOR is a product-launch decision, MINOR for operator action required, PATCH for everything else.
 
@@ -81,24 +95,8 @@ something new, bottom-up when reviewing whether existing code follows it:
 - [Self-registration](glossary/self-registration.md)
 - [Rule of Three](glossary/rule-of-three.md)
 
-## Further reading
-
-This playbook is distilled from practice, not derived from a single
-source, but a few external references cover a lot of the same ground in
-more depth and are worth reading directly rather than re-summarized here:
-
-- [The Twelve-Factor App](https://12factor.net) — the deployment/operations
-  half of this playbook (config, backing services, disposability, logs)
-  leans directly on it.
-- *Clean Architecture* (Robert C. Martin) — the layering/dependency-
-  direction half (layered authority, one composition root, boundary
-  validation) is this playbook's application of the same ideas.
-- *Domain-Driven Design* (Eric Evans) — [[bounded-contexts]] and
-  [[ubiquitous-language]] are this playbook's take on two of its core
-  ideas.
-- The [Data Product Canvas](https://www.datamesh-architecture.com/data-product-canvas)
-  (Data Mesh) — [[well-formed-interface]] generalizes its eight quality
-  facets beyond literal data products to any unit a system exposes.
+See [Further reading](further-reading.md) for the external sources this
+playbook draws on and which principles come from which.
 
 ## Maintaining this playbook
 
@@ -109,3 +107,5 @@ more depth and are worth reading directly rather than re-summarized here:
   index — the index must stay a table of contents, never inline content.
 - A `[[slug]]` that doesn't resolve yet is fine — it marks something worth
   writing, not an error.
+- Citing a new external source? Add it to [Further reading](further-reading.md),
+  not here.

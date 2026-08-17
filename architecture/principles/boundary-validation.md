@@ -1,11 +1,11 @@
 ---
 name: boundary-validation
 type: principle
-description: Validate and sanitize at the edges of the system; trust internal calls between your own layers instead of re-checking everywhere.
+description: Validate and sanitise at the edges of the system; trust internal calls between your own layers instead of re-checking everywhere.
 ---
 
-Validate and sanitize at the edges of the system — user input, external
-systems, deserialized payloads. Internal calls between your own layers
+Validate and sanitise at the edges of the system — user input, external
+systems, deserialised payloads. Internal calls between your own layers
 trust each other's guarantees; don't defensively re-validate the same
 condition at every hop just because it's cheap to add a check.
 

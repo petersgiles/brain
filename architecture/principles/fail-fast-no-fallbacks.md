@@ -23,3 +23,15 @@ startup refuses to proceed if any are missing.
 is trustworthy — you can act on its errors. A system that silently defaults
 accumulates small wrongnesses that surface later, unrelated-looking, far
 from their cause.
+
+Unix tradition calls this the Rule of Repair: "repair what you can — but
+when you must fail, fail noisily and as soon as possible." It adds one
+useful nuance for anything that consumes input from another program:
+Postel's Prescription, "be liberal in what you accept, and conservative in
+what you send." Applied carefully, that means making as much correct sense
+of a slightly-off input as you can before giving up — not silently
+accepting malformed input forever. The generosity belongs in the
+*specification* (accept a genuinely broad, well-defined range of valid
+input), not in a permissive parser quietly tolerating input the spec never
+sanctioned — that's exactly the fallback-by-another-name this principle
+already rules out.

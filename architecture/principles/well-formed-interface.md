@@ -45,3 +45,25 @@ instead of being re-paid by every consumer who has to guess its shape,
 hunt for it, or build around a broken guarantee. Skipping a facet doesn't
 remove that cost, it just moves it onto someone else, later, usually with
 less context than the owner had.
+
+The interoperable and valuable-alone facets are Unix's Rule of Composition
+under a different name: design programs to be connected to other,
+as-yet-unknown programs, favoring simple text streams over binary or
+interactive formats specifically because a stream is easy to compose. Its
+sharpest framing of "interoperable": a unit on one end of an interface
+should care as little as possible about what's on the other end, so either
+end can be replaced without disturbing the other — composability, in other
+words, is really just independence between the two sides.
+
+Text streams are one instantiation of this, not the requirement itself.
+What composition actually needs is a shared, known type between the pieces
+being joined — text is just the lowest-common-denominator type, useful
+precisely when you can't guarantee anything richer is shared across both
+ends (arbitrary, unrelated CLI tools). Where you *do* control both ends, or
+can guarantee a shared type system, composing over structured/typed values
+instead of flattened text is strictly more capable — it's what lets
+PowerShell's object pipeline compose over tree-shaped data directly, where
+a text-only pipeline would need to serialize and re-parse it at every
+stage. [[typed-projection-at-wire-boundary]] is this repo's version of
+that same trade-off: stay loose internally, but the moment a boundary is
+actually crossed, use a real shared type rather than falling back to text.

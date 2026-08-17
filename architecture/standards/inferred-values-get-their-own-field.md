@@ -1,11 +1,11 @@
 ---
 name: inferred-values-get-their-own-field
 type: standard
-description: Never overload one field to mean both "observed" and "synthesized" — add a sibling boolean/flag instead.
+description: Never overload one field to mean both "observed" and "synthesised" — add a sibling boolean/flag instead.
 ---
 
 Never overload one field to mean both "this was directly observed" and
-"this was inferred/defaulted/synthesized." Add a sibling boolean or flag
+"this was inferred/defaulted/synthesised." Add a sibling boolean or flag
 field instead, and carry it all the way to wherever the value is presented,
 so a renderer can distinguish the two cases rather than treating them
 identically because the type system can't tell them apart.

@@ -1,7 +1,7 @@
 ---
 name: typed-projection-at-wire-boundary
 type: pattern
-description: Keep internal merge structures loose, but never serialize them straight across a boundary — project into a typed, documented, allowlisted contract.
+description: Keep internal merge structures loose, but never serialise them straight across a boundary — project into a typed, documented, allowlisted contract.
 ---
 
 Internal composition/merge structures are often deliberately loose — a

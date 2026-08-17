@@ -1,7 +1,7 @@
 ---
 name: minimal-necessary-abstraction
 type: principle
-description: Build exactly what's asked. Don't generalize for a hypothetical future case — duplication beats the wrong abstraction until a third case proves it.
+description: Build exactly what's asked. Don't generalise for a hypothetical future case — duplication beats the wrong abstraction until a third case proves it.
 ---
 
 Build exactly what's asked. Don't add configurability, generality, or a new
@@ -18,3 +18,13 @@ bet, and it's usually wrong about the shape of the real future need — you
 end up paying for generality nothing uses, while the actual second use case
 (when it arrives) doesn't fit the guessed shape anyway and has to be
 half-forced in or half-worked around.
+
+Unix tradition states this same idea as two of its own rules: the Rule of
+Simplicity ("design for simplicity; add complexity only where you must")
+and the Rule of Parsimony ("write a big program only when it is clear by
+demonstration that nothing else will do"). Parsimony adds a specific
+failure mode worth naming: large programs invite overinvestment in a
+failed or suboptimal approach, because people are reluctant to throw away
+the visible product of work already done. That's a second, separate cost
+from the one above — not just "the abstraction was wrong," but "and now
+it's expensive to admit that and back out."

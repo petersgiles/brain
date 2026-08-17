@@ -58,7 +58,7 @@ Married, no kids.
   worked — don't tear it down right after an automated check succeeds.
 - Australian English spelling everywhere text is user- or reader-visible —
   UI copy, error messages, docs, comments, commit messages: colour not
-  color, localised not localized, optimise not optimize, -ise not -ize
+  color, localised not localised, optimise not optimise, -ise not -ise
   generally. Cognitive Advantage is an Australian company. Code identifiers
   (variable/function/type names, JSON/API field names) stay whatever
   spelling the existing codebase or a third-party library already uses —

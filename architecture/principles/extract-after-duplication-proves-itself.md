@@ -14,7 +14,7 @@ open in the other) — that's the actual signal to extract.
 When extracting: lift out the parts that are already identical and
 decoupled first (pure lift-and-shift, low risk). Defer the parts that need
 real generalization (provider-specific auth, storage backends) until a
-second real consumer exists to validate the generalized shape against —
+second real consumer exists to validate the generalised shape against —
 don't guess at the general shape from a single example.
 
 This is [[rule-of-three]] and [[minimal-necessary-abstraction]] applied at

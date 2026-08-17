@@ -192,7 +192,7 @@ augment (v): INCREASE (v)
 aurally (adv): LISTEN (v); HEAR (v)
 authentic (adj): ACCURATE (adj)
 AUTHORITY (n): An official organization that gives approval to something
-authorized (adj): APPROVED (adj)
+authorised (adj): APPROVED (adj)
 AUTOMATIC (adj): That operates without other input
 AUTOMATICALLY (adv): That operates without other input
 AUXILIARY (adj): 1. That operates in a secondary function; 2. That gives help
@@ -303,7 +303,7 @@ carry out (v): DO (v); You can use a more accurate command verb.; MEASURE (v)
 case (n): CONDITION (n)
 case (in case of) (conj): IF (conj)
 CATCH (v): To stop or prevent the movement of something; | other meanings: COLLECT (v)
-categorize (v): CATEGORY (TN)
+categorise (v): CATEGORY (TN)
 CAUSE (n): Something that brings about a result
 CAUSE (v): To be the cause of
 caution (v): TELL (v)
@@ -311,7 +311,7 @@ cautiously (adv): CAREFULLY (adv)
 cavity (n): HOLE (n); SPACE (n)
 cease (v): STOP (v)
 center (v): CENTER (TN)
-centralize (v): CENTER (TN)
+centralise (v): CENTER (TN)
 certain (adj): SURE (adj); SOME (adj); SPECIFIED (adj)
 certify (v): WRITE (v); APPROVAL (n)
 chafe (v): RUB (v)
@@ -321,7 +321,7 @@ CHANGE (n): That which occurs when something changes
 CHANGE (v): To become or to cause to become different; | other meanings: REPLACE (v)
 channel (v): CHANNEL (TN)
 characteristic (n): PROPERTY (n); QUALITY (n)
-CHARGE (v): To accumulate or add electrical energy; | other meanings: FILL (v); PRESSURIZE (v)
+CHARGE (v): To accumulate or add electrical energy; | other meanings: FILL (v); PRESSURise (v)
 CHECK (n): The procedure you do to make sure that something operates correctly or has no defects
 check (v): MAKE SURE (v); MEASURE (v); EXAMINE (v); CHECK (n)
 CHEMICAL (adj): Related to a chemical
@@ -362,7 +362,7 @@ code (v): IDENTIFY (v); CODE (n)
 COIL (n): A sequence of loops
 coil (v): WIND (v)
 coincide (v): ALIGN (v)
-coincident (adj): SYNCHRONIZED (adj); ALIGN (v)
+coincident (adj): SYNCHRONiseD (adj); ALIGN (v)
 COLD (adj): At low temperature
 collapse (v): CLOSE (v); FALL (v)
 COLLECT (v): To come, or cause to come, together in one location
@@ -372,7 +372,7 @@ colored (adj): COLOR (n)
 combine (v): MIX (v); PUT TOGETHER
 combustible (adj): FLAMMABLE (adj)
 COME (v): To move to your location
-COME ON (v): To become bright with light when an internal power source is energized
+COME ON (v): To become bright with light when an internal power source is energised
 commence (v): START (v)
 commencement (n): START (v)
 common (adj): SAME (adv)
@@ -443,7 +443,7 @@ convert (v): CHANGE (v)
 convey (v): MOVE (v); TELL (v)
 COOL (adj): Moderately cold
 cool (v): DECREASE (v); COOL (adj)
-coordinate (v): SYNCHRONIZED (adj)
+coordinate (v): SYNCHRONiseD (adj)
 COPY (n): An object made the same as another object
 copy (v): WRITE (v); COPY (n); RECORD (v)
 CORNER (n): The point or the angle made when lines, sides, or edges touch
@@ -493,7 +493,7 @@ decrease (n): DECREASE (v)
 DECREASE (v): To make or become smaller or lower
 decrement (n): INCREMENT (n)
 DEDICATED (adj): That is used only for one purpose
-DE-ENERGIZE (v): To remove electrical power from
+DE-ENERGise (v): To remove electrical power from
 DEEP (adj): That has a specified depth
 DEFECTIVE (adj): Unserviceable for operation
 define (v): CALCULATE (v); GIVE (v); SPECIFIED (adj)
@@ -519,7 +519,7 @@ deplete (v): DECREASE (v)
 DEPLOY (v): To move or cause to move from a specified position of storage and into operation
 deposit (n): PARTICLE (n); CONTAMINATION (n)
 depress (v): PUSH (v)
-depressurize (v): PRESSURE (TN)
+depressurise (v): PRESSURE (TN)
 DEPTH (n): The distance from the top down, from the surface down, from the front surface to the rear surface
 describe (v): GIVE (v)
 deselect (v): CANCEL (v); Part 2
@@ -660,7 +660,7 @@ enclosed (adj): CLOSED (adj)
 encounter (v): BE (v); FIND (v)
 END (n): Where time, distance, or sequence are completed
 end (v): STOP (v); COMPLETE (v)
-ENERGIZE (v): To supply electrical power to
+ENERGise (v): To supply electrical power to
 enforce (v): OBEY (v)
 ENGAGE (v): To correctly align and come together
 engagement (n): ENGAGE (v)
@@ -890,7 +890,7 @@ GLOSSY (adj): Smooth and shiny
 glow (v): BE (v)
 glue (v): BOND (v); ATTACH (v)
 GO (v): To move to or from something
-GO OFF (v): To become dark when an internal power source is de-energized
+GO OFF (v): To become dark when an internal power source is de-energised
 GOOD (adj): That is satisfactory
 gouge (v): GOUGE (TN)
 govern (v): CONTROL (v)
@@ -926,7 +926,7 @@ HARD (adj): Not easy to cut, not easy to go into or through
 harden (v): HARD (adj); CURE (TV) Refer to rule 1.12.
 harm (v): INJURY (n); IRRITATION (TN) Refer to rule 1.5.
 harmful (adj): DANGEROUS (adj); INJURY (n)
-harmonize (v): AGREE (v); ALIGN (v)
+harmonise (v): AGREE (v); ALIGN (v)
 haul (v): TOW (v); MOVE (v)
 HAVE (v): To possess as a part or quality
 have to (v): Use a verb in the imperative form
@@ -969,7 +969,7 @@ however (adv): BUT (conj)
 huge (adj): LARGE (adj)
 hum (v): HUM (TN)
 hurt (v): INJURY (n)
-HYDRAULIC (adj): Related to, or operated by, pressurized liquid
+HYDRAULIC (adj): Related to, or operated by, pressurised liquid
 HYDRAULICALLY (adv): With hydraulic power
 identical (adj): SAME (adj)
 IDENTIFICATION (n): Something that identifies an object
@@ -982,7 +982,7 @@ ILLUMINATE (v): To make something visible with an external light source For ligh
 immediate (adj): IMMEDIATELY (adv)
 IMMEDIATELY (adv): Without a gap of time or space
 immerse (v): SOAK (v); PUT FULLY INTO
-immobilize (v): LOCK (v); PREVENT MOVEMENT
+immobilise (v): LOCK (v); PREVENT MOVEMENT
 impact (n): HIT (v)
 impact (v): HIT (v); EFFECT (n)
 impair (v): DECREASE (v); OPERATE INCORRECTLY; CAUSE DAMAGE
@@ -1159,7 +1159,7 @@ LISTEN (v): To use your ears to hear or find
 little (adj): SMALL (adj); SHORT (adj); NOT SUFFICIENT
 little (a little) (adj): SMALL QUANTITY
 little (a little) (adv): SMALL (adj)
-LIVE (adj): That includes explosive material For electrical systems, use:; ENERGIZE (v)
+LIVE (adj): That includes explosive material For electrical systems, use:; ENERGise (v)
 load (v): INSTALL (v); LOAD (TN)
 LOCAL (adj): Applicable to a given location or position
 LOCALLY (adv): Applicable to a given location or position
@@ -1232,7 +1232,7 @@ mid (adj): MIDDLE (adj)
 MIDDLE (adj): At a point that is between two other points
 MIDDLE (n): A point that is at or near the center
 mild (adj): WEAK (adj)
-minimize (v): MINIMUM (n)
+minimise (v): MINIMUM (n)
 MINIMUM (adj): Related to the smallest dimension, quantity, number, or value
 MINIMUM (n): The smallest dimension, quantity, number, or value
 minor (adj): SMALL (adj)
@@ -1277,7 +1277,7 @@ need (v): NECESSARY (adj)
 neither (adj): TWO (TN) … NOT
 neither (pron): TWO (TN) … NOT
 NEUTRAL (adj): 1. That has no effect; 2. That is not acid or alkaline
-neutralize (v): NEUTRAL (adj)
+neutralise (v): NEUTRAL (adj)
 never (adv): DO NOT
 NEW (adj): Not used before
 NEXT (adj): The first occurrence that follows immediately after in time or sequence.
@@ -1458,7 +1458,7 @@ preserve (v): PRESERVATION (TN)
 preset (v): SET (v)
 press (v): PUSH (v)
 PRESSURIZATION (n): The procedure that supplies or increases the pressure
-PRESSURIZE (v): To supply pressure
+PRESSURise (v): To supply pressure
 PREVENT (v): To make sure that something does not occur
 prevent (from) (v): LET (v)
 preventive (adj): PREVENT (v)
@@ -1552,7 +1552,7 @@ rebuild (v): ASSEMBLE (v)
 RECEIVE (v): To get energy, material, or a signal from a different source
 RECESS (n): An indentation in a surface
 recess (v): RECESS (n)
-recharge (v): CHARGE (v); FILL (v); PRESSURIZE (v)
+recharge (v): CHARGE (v); FILL (v); PRESSURise (v)
 recheck (v): MEASURE (v); EXAMINE (v); CHECK (n)
 reclaim (v): REPAIR (v)
 recleat (v): ATTACH (v) (TO A CLEAT [TN])
@@ -1617,7 +1617,7 @@ replenish (v): FILL (v); ADD (v); REFUEL (v)
 REPORT (n): The information that is recorded about a subject or occurrence
 reposition (v): MOVE (v); PUT (v); SET (v)
 represent (v): SHOW (v)
-repressurize (v): PRESSURIZE (v)
+repressurise (v): PRESSURise (v)
 request (n): TELL (v); WRITE (v)
 request (v): TELL (v); WRITE (v)
 require (v): NECESSARY (adj)
@@ -1715,7 +1715,7 @@ security (n): CORRECTLY (adv)
 SEE (v): To know with the eyes; | other meanings: REFER (v); EXAMINE (v); MAKE SURE (v)
 seek (v): GET (v)
 seepage (n): LEAKAGE (n)
-seized (adj): CATCH (v); MOVE (v); TURN (v)
+seised (adj): CATCH (v); MOVE (v); TURN (v)
 SELECT (v): To make a choice; Do not use this word as a synonym for SET (v).
 SELECTION (n): The action or result of choosing
 SEMICIRCULAR (adj): That has the shape of half a circle
@@ -1774,7 +1774,7 @@ simultaneously (adv): AT THE SAME TIME
 SINCE (conj): Function word that shows: “from some time in the past until a later time or now” | other meanings: BECAUSE (conj)
 situated (adj): INSTALL (v); BE (v)
 situation (n): CONDITION (n) Use the plural form.
-size (n): DIMENSION (n)
+sise (n): DIMENSION (n)
 skid (v): SKID (TN)
 slack (adj): TENSION (TN)
 slack (n): TENSION (TN)
@@ -1853,7 +1853,7 @@ spring (v): MOVE (v)
 spurious (adj): UNWANTED (adj)
 stability (n): STABLE (adj)
 stabilization (n): STABLE (adj)
-stabilize (v): STABLE (adj)
+stabilise (v): STABLE (adj)
 STABLE (adj): That does not change or move
 stage (n): STEP (n)
 stained (adj): DIRTY (adj); STAIN (TN)
@@ -1934,14 +1934,14 @@ swap (v): INTERCHANGE (v)
 sweep (v): SCAN (TN)
 swing (v): MOVE (v); CALIBRATE (v)
 switch (v): SET (v)
-switch off (v): SET (v); STOP (v); DE-ENERGIZE (v)
-switch on (v): SET (v); START (v); ENERGIZE (v)
+switch off (v): SET (v); STOP (v); DE-ENERGise (v)
+switch on (v): SET (v); START (v); ENERGise (v)
 SYMBOL (n): A written sign that identifies a quantity, operation, item, or condition
 SYMMETRICAL (adj): That has or is with symmetry
 SYMMETRICALLY (adv): In a symmetrical manner
 SYMPTOM (n): A sign of a condition
-synchronize (v): ADJUST (v)
-SYNCHRONIZED (adj): 1. That operates at the same time; 2. That agrees with
+synchronise (v): ADJUST (v)
+SYNCHRONiseD (adj): 1. That operates at the same time; 2. That agrees with
 SYSTEM (n): An assembly of related parts to do a specified operation
 TACKY (adj): Sticky when you touch it
 TAG (v): To put a tag on
@@ -2042,15 +2042,15 @@ tuck (v): PUT (v)
 TUNE (v): To adjust equipment to the best performance
 TURN (n): One full cycle of movement around an axis
 TURN (v): To move or cause to move around an axis or a point
-turn off (v): SET (v); STOP (v); DE-ENERGIZE (v)
-turn on (v): SET (v); START (v); ENERGIZE (v)
+turn off (v): SET (v); STOP (v); DE-ENERGise (v)
+turn on (v): SET (v); START (v); ENERGise (v)
 turn over (v): TURN (v)
 twice (adv): TWO (TN)
 TWIST (v): 1. To use a force that turns something and causes a distortion; 2. To turn or change shape as a result of torsion
 TYPE (n): A specified group
 TYPICAL (adj): That has the important qualities of a group
 unable (adj): CANNOT (v)
-unauthorized (adj): NOT APPROVED
+unauthorised (adj): NOT APPROVED
 uncap (v): REMOVE (v) (A CAP [TN] OR CAPS [TN])
 unclip (v): REMOVE (v) (FROM A CLIP [TN] OR CLIPS [TN])
 uncoil (v): UNWIND (v)
@@ -2117,7 +2117,7 @@ USE (v): To make something do its specified function
 USUAL (adj): That you use or that occurs most frequently
 USUALLY (adv): In a usual manner
 utilization (n): USE (v)
-utilize (v): USE (v)
+utilise (v): USE (v)
 valid (adj): CORRECT (adj); APPLICABLE (adj); This word becomes part of a technical noun when it refers to an official document.
 validity (n): CORRECT (adj); APPLICABLE (adj)
 VALUE (n): A quantity that is calculated or given

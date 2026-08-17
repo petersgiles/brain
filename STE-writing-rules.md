@@ -11,11 +11,11 @@ STE-dictionary.md in this folder.
 
 Summary of the rules<br>Which words can you use?<br>Rule 1.1  Use words that are:<br> - Approved in the dictionary<br> - Technical nouns<br> - Technical verbs.<br>Part of speech<br>Rule 1.2  Use approved words from the dictionary only as the specified part of speech.<br>Approved meaning<br>Rule 1.3  Use approved words only with their approved meanings.<br>Forms of verbs and adjectives<br>Rule 1.4  Use only the approved forms of verbs and adjectives.<br>Technical nouns<br>Rule 1.5  You can use words that you can include in a technical noun category.<br>Rule 1.6  Use a word that is not approved in the dictionary, only when it is a technical noun or<br>part of a technical noun.<br>Rule 1.7  Do not use words that are technical nouns as verbs.<br>Rule 1.8  Use technical nouns that are approved in your company, industry, or subject field.<br>Rule 1.9  When you must select a technical noun, use one which is short and easy to<br>understand.<br>Rule 1.10  Do not use regional, slang, or jargon words as technical nouns.<br>Rule 1.11  Do not use different technical nouns for the same item.<br>Technical verbs<br>Rule 1.12  You can use verbs that you can include in a technical verb category.<br>Rule 1.13  Do not use technical verbs as nouns.<br>Spelling<br>Rule 1.14  Use American English spelling unless other official directives tell you differently.<br> ### **Which words can you use?** 
 
-|**Rule 1.1**|**Use words that are:**|
-|---|---|
-||**- Approved in the dictionary**|
-||**- Technical nouns**|
-||**- Technical verbs.**|
+| **Rule 1.1** | **Use words that are:**          |
+| ------------ | -------------------------------- |
+|              | **- Approved in the dictionary** |
+|              | **- Technical nouns**            |
+|              | **- Technical verbs.**           |
 
 Simplified Technical English (STE) has a controlled dictionary (part 2) that gives the words most frequently used in technical writing. You can also use words that are not in the dictionary if you can include them in the specified categories of technical nouns and technical verbs. 
 
@@ -27,7 +27,7 @@ The word “use” is an approved verb in the dictionary. The word “engine” 
 
 The dictionary also gives a selection of words that are not approved, with examples that show how to use alternative words. 
 
-In the context of ISO 1087:2019, “subject fields” refer to specific domains or areas of knowledge that have specialized vocabularies. 
+In the context of ISO 1087:2019, “subject fields” refer to specific domains or areas of knowledge that have specialised vocabularies. 
 
 Technical nouns and technical verbs are usually included in your company glossary or terminology database. Always refer to these sources, and to the specified rules in this section, for the correct selection of words. 
 
@@ -43,11 +43,11 @@ In the dictionary, each approved word has a specified part of speech. When you u
 
 <mark>STE: Test B is an alternative to test A.</mark> 
 
-|_Non-STE:_|_Test the system for leaks._|
-|---|---|
-|STE:|Do the leak test of the system.|
-||or|
-|STE:|Do a test for leaks in the system.|
+| _Non-STE:_ | _Test the system for leaks._       |
+| ---------- | ---------------------------------- |
+| STE:       | Do the leak test of the system.    |
+|            | or                                 |
+| STE:       | Do a test for leaks in the system. |
 
 “Dim” is an approved adjective, but not an approved verb. 
 
@@ -63,9 +63,9 @@ _<mark>Non-STE: A value of 2 mm is acceptable.</mark>_ <mark>STE: A value of 2 m
 
 “Operable” is an adjective that is not approved. The dictionary gives an approved alternative that has a different part of speech: “operate” as a verb. Thus, you must use a different sentence construction. 
 
-|_Non-STE:_|_Make sure that the valve isoperable._|
-|---|---|
-|STE:|Make sure that the valve canoperate.|
+| _Non-STE:_ | _Make sure that the valve isoperable._ |
+| ---------- | -------------------------------------- |
+| STE:       | Make sure that the valve canoperate.   |
 
 When you replace a word, always make sure that the approved alternative you select does not change the meaning of the sentence. If the meaning changes, select a different word or use a different sentence construction. 
 
@@ -113,9 +113,9 @@ The dictionary gives each approved verb together with its approved forms. The di
 
 This word tells you that you can use the approved verb “remove” as follows: 
 
-|Infinitive/Imperative<br>forms|Simple present<br>tense|Simple past tense|Past participle form<br>(as an adjective)|
-|---|---|---|---|
-|(To)Remove/Remove|Remove(s)|Removed|Removed|
+| Infinitive/Imperative<br>forms | Simple present<br>tense | Simple past tense | Past participle form<br>(as an adjective) |
+| ------------------------------ | ----------------------- | ----------------- | ----------------------------------------- |
+| (To)Remove/Remove              | Remove(s)               | Removed           | Removed                                   |
 
 The past participle form of the verb is usually the same as the simple past tense. Thus, the dictionary gives it two times. 
 
@@ -125,9 +125,9 @@ The past participle form of the verb is usually the same as the simple past tens
 
 This word tells you that you can use the approved adjective “slow” as follows: 
 
-|Base form|Comparative form|Superlative form|
-|---|---|---|
-|Slow|Slower|Slowest|
+| Base form | Comparative form | Superlative form |
+| --------- | ---------------- | ---------------- |
+| Slow      | Slower           | Slowest          |
 
 Adjectives that make their comparative and superlative forms with “more” and “most” do not have these forms in the dictionary. This is because “more” and “most” are approved words. 
 
@@ -181,7 +181,7 @@ You can use technical nouns in procedural and descriptive writing if you can inc
 
 **7. Mathematical, scientific, engineering terms, and formulas** Terms that refer to concepts, design, calculations, or methodologies. 
 
-<mark>acceleration, allowance, astronomy, atom, average, biochemistry, biology, biome, burr, capacitance, carbon, category, cavitation, center, circle, coefficient, combination, configuration, conversion, count, critical temperature, curve, cycle, defect, degree, deceleration, density, diameter, displacement, duty cycle, elapsed time, electricity, energy, exponent, failure, ferry flight, flutter, force, fumes, genetics, geology. geophysics, graph, gravity, hardness, heat treatment, idle speed, ignition, inhibition, instrumentation, interference, issue, light, line replaceable unit, load, loss, measurement, modification, momentum, motoring, overhaul, oversized hole, oxygen, performance, phase, polarity, power, pressure, process, radius, rating, ratio, reduction, relative angular position, resistance, scan, shutdown, signal, specific gravity, stall, standard, steam, stiffness, strength, suction, temperature, tension, thread, tightness, torque, toxic property, vapor, voltage, water vapor, “C = (A - B) - 0.063 mm”</mark> 
+<mark>acceleration, allowance, astronomy, atom, average, biochemistry, biology, biome, burr, capacitance, carbon, category, cavitation, center, circle, coefficient, combination, configuration, conversion, count, critical temperature, curve, cycle, defect, degree, deceleration, density, diameter, displacement, duty cycle, elapsed time, electricity, energy, exponent, failure, ferry flight, flutter, force, fumes, genetics, geology. geophysics, graph, gravity, hardness, heat treatment, idle speed, ignition, inhibition, instrumentation, interference, issue, light, line replaceable unit, load, loss, measurement, modification, momentum, motoring, overhaul, oversised hole, oxygen, performance, phase, polarity, power, pressure, process, radius, rating, ratio, reduction, relative angular position, resistance, scan, shutdown, signal, specific gravity, stall, standard, steam, stiffness, strength, suction, temperature, tension, thread, tightness, torque, toxic property, vapor, voltage, water vapor, “C = (A - B) - 0.063 mm”</mark> 
 
 **8. Navigation and geographic terms** 
 
@@ -299,19 +299,19 @@ The same word “base” can go into different categories of technical nouns. Th
 
 ##### **Examples:** 
 
-|STE:|Keep the backup file in a safe area.<br>(“Backup file” is a technical noun, category 19, computer science, information and<br>communication technology.)|
-|---|---|
-|_Non-STE:_|_For this procedure, make sure that one person is available as backup._<br>(“Backup” is not permitted and you cannot use it in this context.)|
-|STE:|Two persons are necessary to do this procedure.<br>(Different sentence construction)|
+| STE:       | Keep the backup file in a safe area.<br>(“Backup file” is a technical noun, category 19, computer science, information and<br>communication technology.) |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _Non-STE:_ | _For this procedure, make sure that one person is available as backup._<br>(“Backup” is not permitted and you cannot use it in this context.)            |
+| STE:       | Two persons are necessary to do this procedure.<br>(Different sentence construction)                                                                     |
 
 “Main” is a word that is not approved, and its alternative is “primary (adj).” 
 
 ##### **Examples:** 
 
-|_Non-STE:_|_The laptop has these main parts:_|
-|---|---|
-||(“Main part” is not a technical noun, and it is correct to replace “main” with<br>“primary.”)|
-|STE:|The laptop has these primary parts:|
+| _Non-STE:_ | _The laptop has these main parts:_                                                            |
+| ---------- | --------------------------------------------------------------------------------------------- |
+|            | (“Main part” is not a technical noun, and it is correct to replace “main” with<br>“primary.”) |
+| STE:       | The laptop has these primary parts:                                                           |
 
 But you can use “main” as part of a technical noun. 
 
@@ -321,10 +321,10 @@ If a word is not in the dictionary, you can use it if it is part of a technical 
 
 ##### **Example:** 
 
-|STE:|This procedure gives instructions to identify the relative angular positions of the<br>power-turbine rotor disks.|
-|---|---|
-||(You can use “relative” as part of a technical noun, category 7, mathematical,|
-||scientific, engineering terms, and formulas.)|
+| STE: | This procedure gives instructions to identify the relative angular positions of the<br>power-turbine rotor disks. |
+| ---- | ----------------------------------------------------------------------------------------------------------------- |
+|      | (You can use “relative” as part of a technical noun, category 7, mathematical,                                    |
+|      | scientific, engineering terms, and formulas.)                                                                     |
 
 #### **Rule 1.7 Do not use words that are technical nouns as verbs.** 
 
@@ -372,10 +372,10 @@ When there is no technical noun that is approved in your company, industry, or s
 
 ##### **Example:** 
 
-|_Non-STE:_|_Remove the four stainless steel pan head machine screws (10) that attach the_|
-|---|---|
-||_metallic machined flange (15) to the front housing cover (20)._|
-|STE:|Remove the four screws (10) that attach the flange (15) to the cover (20).|
+| _Non-STE:_ | _Remove the four stainless steel pan head machine screws (10) that attach the_ |
+| ---------- | ------------------------------------------------------------------------------ |
+|            | _metallic machined flange (15) to the front housing cover (20)._               |
+| STE:       | Remove the four screws (10) that attach the flange (15) to the cover (20).     |
 
 In this example, it is sufficient to use the words “screws,” “flange,” and “cover.” This is because these parts have index numbers, and the related illustration clearly identifies them. Differently, add one or two adjectives to the noun to help your reader understand. 
 
@@ -389,16 +389,16 @@ This rule is also applicable to technical slang or jargon words. If only a small
 
 ##### **Examples:** 
 
-|_Non-STE:_|During logging operations, attach achokerto the heavy machinery to hold the logs<br>in their position.|
-|---|---|
-||(A “choker” is a type of cable used in logging operations to attach logs during<br>transportation. It is a term used in some regions of North America and Canada,<br>Northern Europe, and New Zealand. Its meaning is not immediately clear to the<br>reader.)|
-|STE:|During logging operations, attach acableto the heavy machinery to hold the logs<br>in their position.|
-|_Non-STE:_|After the firmware update, do notbrickthe router.|
-||(“Brick” is technical slang in information technology, with the meaning of “to make<br>a device non-operational.” Its meaning is not immediately clear to the reader.)|
-|STE:|After the firmware update, do notset the router to OFF.|
-|_Non-STE:_|_Remove yourgearfrom the work area._|
-||(“Gear” is technical jargon that refers to tools and equipment, and its meaning is<br>not immediately clear to the reader.)|
-|STE:|Remove yourtools and equipmentfrom the work area.|
+| _Non-STE:_ | During logging operations, attach achokerto the heavy machinery to hold the logs<br>in their position.                                                                                                                                                         |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|            | (A “choker” is a type of cable used in logging operations to attach logs during<br>transportation. It is a term used in some regions of North America and Canada,<br>Northern Europe, and New Zealand. Its meaning is not immediately clear to the<br>reader.) |
+| STE:       | During logging operations, attach acableto the heavy machinery to hold the logs<br>in their position.                                                                                                                                                          |
+| _Non-STE:_ | After the firmware update, do notbrickthe router.                                                                                                                                                                                                              |
+|            | (“Brick” is technical slang in information technology, with the meaning of “to make<br>a device non-operational.” Its meaning is not immediately clear to the reader.)                                                                                         |
+| STE:       | After the firmware update, do notset the router to OFF.                                                                                                                                                                                                        |
+| _Non-STE:_ | _Remove yourgearfrom the work area._                                                                                                                                                                                                                           |
+|            | (“Gear” is technical jargon that refers to tools and equipment, and its meaning is<br>not immediately clear to the reader.)                                                                                                                                    |
+| STE:       | Remove yourtools and equipmentfrom the work area.                                                                                                                                                                                                              |
 
 #### **Rule 1.11 Do not use different technical nouns for the same item.** 
 
@@ -406,13 +406,13 @@ When you select a technical noun, do not use a different technical noun in other
 
 ##### **Example:** 
 
-|_Non-STE:_|_1. Make sure that the servo control unitis in the open position._|
-|---|---|
-||_2. Do the operational test of theactuator._|
-||_3. Disconnect thecontrol unitfrom the test rig._|
-|STE:|1. Make sure that theactuatoris in the open position.|
-||2. Do the operational test of theactuator.|
-||3. Disconnect theactuatorfrom the test rig.|
+| _Non-STE:_ | _1. Make sure that the servo control unitis in the open position._ |
+| ---------- | ------------------------------------------------------------------ |
+|            | _2. Do the operational test of theactuator._                       |
+|            | _3. Disconnect thecontrol unitfrom the test rig._                  |
+| STE:       | 1. Make sure that theactuatoris in the open position.              |
+|            | 2. Do the operational test of theactuator.                         |
+|            | 3. Disconnect theactuatorfrom the test rig.                        |
 
 In the non-STE example, “servo control unit,” “actuator,” and “control unit” refer to the same item. Use the technical noun that is approved in your company, industry, or subject field. If, as in the example, the technical noun is “actuator,” then always use this technical noun in your text. 
 
@@ -452,7 +452,7 @@ Terms that give instructions and information to:
 
 - d) **Change the mechanical strength, the structure, or the physical properties of a material:** 
 
-<mark>anneal, cure, decay, freeze, heat-treat, magnetize, normalize, vaporize</mark> 
+<mark>anneal, cure, decay, freeze, heat-treat, magnetise, normalise, vaporise</mark> 
 
 - e) **Change the surface finish of a material:** 
 
@@ -468,11 +468,11 @@ Terms that give instructions and information for:
 
 - a) **Input and output processes** : 
 
-<mark>click, digitize, enter, press, print, swipe, tap, type</mark> 
+<mark>click, digitise, enter, press, print, swipe, tap, type</mark> 
 
 - b) **User interface and application processes** : 
 
-<mark>clear, close, copy, cut, delete, deselect, disable, drag, drag and drop, enable, encrypt, erase, filter, highlight, invalidate, maximize, minimize, navigate, open, paste, save, scroll, sort, store, tweet, validate, zoom in, zoom out</mark> 
+<mark>clear, close, copy, cut, delete, deselect, disable, drag, drag and drop, enable, encrypt, erase, filter, highlight, invalidate, maximise, minimise, navigate, open, paste, save, scroll, sort, store, tweet, validate, zoom in, zoom out</mark> 
 
 - c) **System operations** : 
 
@@ -488,7 +488,7 @@ Terms that give instructions and information in these contexts:
 
 - b) **Medical** 
 
-<mark>disinfect, intubate, operate, prescribe, sanitize, sterilize</mark> 
+<mark>disinfect, intubate, operate, prescribe, sanitise, sterilise</mark> 
 
 - c) **Civil and military operations** 
 
@@ -584,14 +584,14 @@ Use a different spelling only if other technical publication specifications, sty
 
 ##### **Examples:** 
 
-|_Non-STE:_|_The door is made of carbon fibre reinforced plastic._|
-|---|---|
-||(“Fibre” is British English spelling.)|
-|STE:|The door is made of carbon-fiber-reinforced plastic.<br>(“Fiber” is American English spelling.)|
-|_Non-STE:_|Change the colour of the display.|
-||(“Colour” is British English spelling.)|
-|STE:|Change the color of the display.|
-||(“Color” is American English spelling.)|
+| _Non-STE:_ | _The door is made of carbon fibre reinforced plastic._                                          |
+| ---------- | ----------------------------------------------------------------------------------------------- |
+|            | (“Fibre” is British English spelling.)                                                          |
+| STE:       | The door is made of carbon-fiber-reinforced plastic.<br>(“Fiber” is American English spelling.) |
+| _Non-STE:_ | Change the colour of the display.                                                               |
+|            | (“Colour” is British English spelling.)                                                         |
+| STE:       | Change the color of the display.                                                                |
+|            | (“Color” is American English spelling.)                                                         |
 
 If there is quoted text that has British English spelling, for example on a computer screen, do not change the spelling. Keep the quoted text as it is. Refer to Rule 8.6 which tells you how to use quoted texts correctly. 
 
@@ -601,10 +601,10 @@ If there is quoted text that has British English spelling, for example on a comp
 
 ##### **Multi-word nouns** 
 
-|Rule 2.1|Write multi-word nouns of no more than three words.|
-|---|---|
-|Rule 2.2|When a technical noun has more than three words, write it in full.<br>Then, you can use one of these methods to make the technical noun clear:<br>- Give a shorter form of the technical noun.|
-||- Use hyphens (-) between words that you use as one unit.|
+| Rule 2.1 | Write multi-word nouns of no more than three words.                                                                                                                                            |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rule 2.2 | When a technical noun has more than three words, write it in full.<br>Then, you can use one of these methods to make the technical noun clear:<br>- Give a shorter form of the technical noun. |
+|          | - Use hyphens (-) between words that you use as one unit.                                                                                                                                      |
 
 ### **Multi-word nouns** 
 
@@ -616,10 +616,10 @@ Technical texts can contain long groups of words that have the function of one p
 
 ##### **General examples:** 
 
-|Horizontal cylinder pivot bearing|(a multi-word noun of 4 words)|
-|---|---|
-|Stainless steel corrosion protection strips|(a multi-word noun of 5 words)|
-|Actuator operating rod|(a multi-word noun of 3 words)|
+| Horizontal cylinder pivot bearing           | (a multi-word noun of 4 words) |
+| ------------------------------------------- | ------------------------------ |
+| Stainless steel corrosion protection strips | (a multi-word noun of 5 words) |
+| Actuator operating rod                      | (a multi-word noun of 3 words) |
 
 Long multi-word nouns are not easy to understand because the words in the multi-word noun can connect to each other differently. The main noun, or head noun of the group, is usually the last word of the multi-word noun. When the connections between words are not clear, ambiguity occurs. As a result, short multi-word nouns are easier to understand. 
 
@@ -639,23 +639,23 @@ To keep multi-word nouns short, you can use prepositions (for example, “of,”
 
 ##### **Examples:** 
 
-|_Non-STE:_|_Runway light connection resistance calibration._<br>_(5 words)_|
-|---|---|
-|STE:|Calibrationof theresistanceof therunway light connection.<br>(1 word, 1 word, and 3 words)|
-|_Non-STE:_|_Install the forward turbine overheat thermocouple terminal tags._<br>_(6 words)_|
-|STE:|Install theterminal tagson theforward overheat thermocouple of the turbine.<br>(2 words and 3 words)|
-|_Non-STE:_|_Remove theengine transmission housing attachment bolts._<br>_(5 words)_|
-|STE:|Remove theboltsthatattachthetransmission housingto theengine.|
-||<br>(1 word, 1 word, 2 words, and 1 word)|
-|_Non-STE:_|_Adjust to obtaindoor operating rod alignmentwith the attachment point. (4 words)_|
-|STE:|Adjust thedoor operating roduntil italignswith the attachment point.<br>(3 words and 1 word)|
+| _Non-STE:_ | _Runway light connection resistance calibration._<br>_(5 words)_                                     |
+| ---------- | ---------------------------------------------------------------------------------------------------- |
+| STE:       | Calibrationof theresistanceof therunway light connection.<br>(1 word, 1 word, and 3 words)           |
+| _Non-STE:_ | _Install the forward turbine overheat thermocouple terminal tags._<br>_(6 words)_                    |
+| STE:       | Install theterminal tagson theforward overheat thermocouple of the turbine.<br>(2 words and 3 words) |
+| _Non-STE:_ | _Remove theengine transmission housing attachment bolts._<br>_(5 words)_                             |
+| STE:       | Remove theboltsthatattachthetransmission housingto theengine.                                        |
+|            | <br>(1 word, 1 word, 2 words, and 1 word)                                                            |
+| _Non-STE:_ | _Adjust to obtaindoor operating rod alignmentwith the attachment point. (4 words)_                   |
+| STE:       | Adjust thedoor operating roduntil italignswith the attachment point.<br>(3 words and 1 word)         |
 
-|**Rule 2.2**|**When a technical noun has more than three words, write it in full.**<br>**Then, you can use one of these methods to make the technical noun**<br>**clear:**|
-|---|---|
+| **Rule 2.2** | **When a technical noun has more than three words, write it in full.**<br>**Then, you can use one of these methods to make the technical noun**<br>**clear:** |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-|**- Give a shorter form of the technical noun.**|
-|---|
-|**- Use hyphens (-) between words that you use as one unit.**|
+| **- Give a shorter form of the technical noun.**              |
+| ------------------------------------------------------------- |
+| **- Use hyphens (-) between words that you use as one unit.** |
 
 A long multi-word noun can be a long technical noun, or it can be a combination of shorter technical nouns. Frequently, it is not possible to divide technical nouns into smaller parts because they are the technical nouns that your company, industry, or subject field uses. Thus, you must write technical nouns as they are, in their approved form. 
 
@@ -677,23 +677,23 @@ If an approved technical noun includes three words or less, it is not necessary 
 
 ##### **Example:** 
 
-|_Do not write:_<br>_The primary parts of the valve are:_|
-|---|
-|_- The DA (8)_<br>_- The PVA (15)_<br>_- The BA (17)_<br>_- The VB (20)._|
-|WRITE:<br>The primary parts of the valve are:|
-|- The diaphragm assembly (8)<br>- The poppet valve assembly (15)<br>- The bush assembly (17)<br>- The valve body (20).|
+| _Do not write:_<br>_The primary parts of the valve are:_                                                               |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| _- The DA (8)_<br>_- The PVA (15)_<br>_- The BA (17)_<br>_- The VB (20)._                                              |
+| WRITE:<br>The primary parts of the valve are:                                                                          |
+| - The diaphragm assembly (8)<br>- The poppet valve assembly (15)<br>- The bush assembly (17)<br>- The valve body (20). |
 
 You can use abbreviations that come from your official company documentation but be careful. A text full of abbreviations in a procedure, although shorter, is not easy to read. 
 
 ##### **Example:** 
 
-|_Do not write:_|_A. Remove the DA (8) from the VB (20)._|
-|---|---|
-||_B. Remove the PVA (15) from its seat._|
-||_C. Remove the BA (17) from the VB (20)._|
-|WRITE:|A.Remove the diaphragm assembly (8) from the valve body (20).|
-||B.Remove the poppet valve assembly (15) from its seat.|
-||C.Remove the bush assembly (17) from the valve body (20).|
+| _Do not write:_ | _A. Remove the DA (8) from the VB (20)._                      |
+| --------------- | ------------------------------------------------------------- |
+|                 | _B. Remove the PVA (15) from its seat._                       |
+|                 | _C. Remove the BA (17) from the VB (20)._                     |
+| WRITE:          | A.Remove the diaphragm assembly (8) from the valve body (20). |
+|                 | B.Remove the poppet valve assembly (15) from its seat.        |
+|                 | C.Remove the bush assembly (17) from the valve body (20).     |
 
 ##### <u>Method 2 - Hyphens (-) between the words that you use as one unit</u> 
 
@@ -701,9 +701,9 @@ A hyphen is a punctuation mark that connects words or parts of words. You can us
 
 ##### **Examples in STE:** 
 
-|Make sure that thecutoff-switch power connectionis safe.|(3 words)|
-|---|---|
-|Inspection of thelavatory rapid-decompression device.|(3 words)|
+| Make sure that thecutoff-switch power connectionis safe. | (3 words) |
+| -------------------------------------------------------- | --------- |
+| Inspection of thelavatory rapid-decompression device.    | (3 words) |
 
 Make sure that you do not connect words which are not related, because this hyphen will change the meaning of the multi-word noun. If you are not sure, only explain the multi-word noun. Then, use a shorter form, or an official approved abbreviation. 
 
@@ -713,19 +713,19 @@ Do not use hyphens to make groups of more than three words. If you use hyphens f
 
 ##### **Example:** 
 
-|_Non-STE:_|_Move the main-gear-door-retraction-winch handle._|_(2 words, but not correct)_|
-|---|---|---|
-|STE:|Move the main-gear-door retraction-winch handle.|(3 words)|
+| _Non-STE:_ | _Move the main-gear-door-retraction-winch handle._ | _(2 words, but not correct)_ |
+| ---------- | -------------------------------------------------- | ---------------------------- |
+| STE:       | Move the main-gear-door retraction-winch handle.   | (3 words)                    |
 
 If an approved technical noun includes three words or less (for example “poppet valve assembly” and “diaphragm assembly”), it is not necessary to use hyphens. 
 
 ##### **Example:** 
 
-|_Do not write:_|_A.Remove the diaphragm-assembly (8) from the valve body (20)._|
-|---|---|
-||_B.Remove the poppet-valve assembly (15) from its seat._|
-|WRITE:|A. Remove the diaphragm assembly (8) from the valve body (20).|
-||B. Remove the poppet valve assembly (15) from its seat.|
+| _Do not write:_ | _A.Remove the diaphragm-assembly (8) from the valve body (20)._ |
+| --------------- | --------------------------------------------------------------- |
+|                 | _B.Remove the poppet-valve assembly (15) from its seat._        |
+| WRITE:          | A. Remove the diaphragm assembly (8) from the valve body (20).  |
+|                 | B. Remove the poppet valve assembly (15) from its seat.         |
 
 But, if an approved technical noun includes a hyphen (for example “inward-outward valve”), do not remove the hyphen. Keep the technical noun that comes from your official company documentation. 
 
@@ -735,16 +735,16 @@ _<mark>Do not write: The inward outward valve is part of the fuel system.</mark>
 
 # **Section 3 - Verbs** 
 
-|**Verb form**<br>Rule 3.1|**Summary of the rules**<br>**s and tenses of verbs**<br>Use only the verb forms that are given in the dictionary.|
-|---|---|
-|Rule 3.2|Use only these verb forms and tenses of verbs:<br>- The infinitive form<br>- The imperative form (command form)<br>- The simple present tense<br>- The simple past tense<br>- The simple future tense<br>- The past participle form (as an adjective).|
-|Rule 3.3|Use the past participle form as an adjective.|
-|Rule 3.4|Do not use auxiliary verbs to make complex verb constructions.|
-|Rule 3.5|Use the “-ing” form of a verb only as a technical noun or as a modifier in a technical<br>noun.|
-|**Active voi**|**ce**|
-|Rule 3.6|Use the active voice. In descriptive writing, you can use the passive voice only when<br>the agent is unknown.|
-|**How to de**|**scribe an action**|
-|Rule 3.7|Use an approved verb to describe an action, not a noun or other parts of speech.|
+| **Verb form**<br>Rule 3.1 | **Summary of the rules**<br>**s and tenses of verbs**<br>Use only the verb forms that are given in the dictionary.                                                                                                                                     |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Rule 3.2                  | Use only these verb forms and tenses of verbs:<br>- The infinitive form<br>- The imperative form (command form)<br>- The simple present tense<br>- The simple past tense<br>- The simple future tense<br>- The past participle form (as an adjective). |
+| Rule 3.3                  | Use the past participle form as an adjective.                                                                                                                                                                                                          |
+| Rule 3.4                  | Do not use auxiliary verbs to make complex verb constructions.                                                                                                                                                                                         |
+| Rule 3.5                  | Use the “-ing” form of a verb only as a technical noun or as a modifier in a technical<br>noun.                                                                                                                                                        |
+| **Active voi**            | **ce**                                                                                                                                                                                                                                                 |
+| Rule 3.6                  | Use the active voice. In descriptive writing, you can use the passive voice only when<br>the agent is unknown.                                                                                                                                         |
+| **How to de**             | **scribe an action**                                                                                                                                                                                                                                   |
+| Rule 3.7                  | Use an approved verb to describe an action, not a noun or other parts of speech.                                                                                                                                                                       |
 
 ### **Verb forms and tenses of verbs** 
 
@@ -778,10 +778,10 @@ Use only the verbs forms and the tenses of verbs that are approved.
 
 ##### **Examples:** 
 
-|Infinitive form<br>(base form)|Imperative form<br>(command form)|Simple<br>present<br>tense|Simple past<br>tense|Simple<br>future tense|Past participle<br>form (as an<br>adjective)|
-|---|---|---|---|---|---|
-|(To) Adjust<br>(regular verb)|Adjust + object|You/we/they<br>adjust<br>It adjusts|You/we/they<br>adjusted<br>It adjusted|You/we/they<br>will adjust<br>It will adjust|The adjusted<br>linkage|
-|(To) Give<br>(irregular verb)|Give + object|You/we/they<br>give<br>It gives|You/we/they<br>gave<br>It gave|You/we/they<br>will give<br>It will give|The given<br>information|
+| Infinitive form<br>(base form) | Imperative form<br>(command form) | Simple<br>present<br>tense          | Simple past<br>tense                   | Simple<br>future tense                       | Past participle<br>form (as an<br>adjective) |
+| ------------------------------ | --------------------------------- | ----------------------------------- | -------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| (To) Adjust<br>(regular verb)  | Adjust + object                   | You/we/they<br>adjust<br>It adjusts | You/we/they<br>adjusted<br>It adjusted | You/we/they<br>will adjust<br>It will adjust | The adjusted<br>linkage                      |
+| (To) Give<br>(irregular verb)  | Give + object                     | You/we/they<br>give<br>It gives     | You/we/they<br>gave<br>It gave         | You/we/they<br>will give<br>It will give     | The given<br>information                     |
 
 Do not use other forms and tenses that are not approved, for example: 
 
@@ -833,15 +833,15 @@ Some complex verb constructions include other auxiliary verbs with the past part
 
 ##### **Examples:** 
 
-|_Non-STE:_|_The seatis to be installedbefore you install the cushion_|
-|---|---|
-|STE:|Before you install the cushion,install the seat.|
-|_Non-STE:_|_The volume controlcan be adjusted._|
-|STE:|You can adjustthe volume control.|
-|_Non-STE:_|_The temperaturemust be adjusted._|
-|STE:|Adjustthe temperature.|
-|_Non-STE:_|_The sleevewill be adjustedby the robot._|
-|STE:|The robotwill adjustthe sleeve.|
+| _Non-STE:_ | _The seatis to be installedbefore you install the cushion_ |
+| ---------- | ---------------------------------------------------------- |
+| STE:       | Before you install the cushion,install the seat.           |
+| _Non-STE:_ | _The volume controlcan be adjusted._                       |
+| STE:       | You can adjustthe volume control.                          |
+| _Non-STE:_ | _The temperaturemust be adjusted._                         |
+| STE:       | Adjustthe temperature.                                     |
+| _Non-STE:_ | _The sleevewill be adjustedby the robot._                  |
+| STE:       | The robotwill adjustthe sleeve.                            |
 
 #### **Rule 3.5 Use the “-ing” form of a verb only as a technical noun or as a modifier in a technical noun.** 
 
@@ -869,10 +869,10 @@ These different functions for words that have an “-ing” form can frequently 
 
 ##### **Examples:** 
 
-|_Non-STE:_<br>STE:|_When you are doing this procedure, obey all the safety precautions._<br>When you do this procedure, obey all the safety precautions.|
-|---|---|
-|_Non-STE:_|_Mechanics wearing insufficient protective clothing and opening containers_<br>_containing hazardous materials in areas where there is a lack of ventilation, using_<br>_inappropriate tools without observing the manufacturer's instructions, are in danger_<br>_of coming into contact with these materials and thus suffering from skin irritation_<br>_and breathing problems._|
-|STE:|Before you use dangerous materials, obey these precautions:<br>(1) Read the manufacturer's instructions.<br>(2) Make sure that there is sufficient airflow in the work area.<br>(3) Put on a face mask and protective clothing.<br>(4) Get the correct tools to open the containers for these materials.<br>If you do not obey these precautions, injury to your skin and your lungs can occur.|
+| _Non-STE:_<br>STE: | _When you are doing this procedure, obey all the safety precautions._<br>When you do this procedure, obey all the safety precautions.                                                                                                                                                                                                                                                           |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _Non-STE:_         | _Mechanics wearing insufficient protective clothing and opening containers_<br>_containing hazardous materials in areas where there is a lack of ventilation, using_<br>_inappropriate tools without observing the manufacturer's instructions, are in danger_<br>_of coming into contact with these materials and thus suffering from skin irritation_<br>_and breathing problems._            |
+| STE:               | Before you use dangerous materials, obey these precautions:<br>(1) Read the manufacturer's instructions.<br>(2) Make sure that there is sufficient airflow in the work area.<br>(3) Put on a face mask and protective clothing.<br>(4) Get the correct tools to open the containers for these materials.<br>If you do not obey these precautions, injury to your skin and your lungs can occur. |
 
 <u>Words that have an “-ing” form and are technical nouns or parts of technical nouns</u> 
 
@@ -938,10 +938,10 @@ A sentence in the active voice always has a grammatical subject (the agent), but
 
 ##### **Example:** 
 
-|Passive:|During transmission, the datawas corrupted.(Correct, the agent is unknown.)|
-|---|---|
-|Active:|During transmission, something corrupted the data.<br>(Correct, you do not know the identity of “something,” but you can use it as the<br>agent.)|
-|_Active:_|_Transmission corrupted the data. (Incorrect, “transmission” is not the correct_<br>_agent.)_|
+| Passive:  | During transmission, the datawas corrupted.(Correct, the agent is unknown.)                                                                       |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Active:   | During transmission, something corrupted the data.<br>(Correct, you do not know the identity of “something,” but you can use it as the<br>agent.) |
+| _Active:_ | _Transmission corrupted the data. (Incorrect, “transmission” is not the correct_<br>_agent.)_                                                     |
 
 In the example, if you use the word “something” (“a thing that is not determined or specified”) as the agent, the active voice will be technically correct. 
 
@@ -959,23 +959,23 @@ When the agent (the person or thing that does the action) is not given in the se
 
 ##### **Examples:** 
 
-|_Non-STE:_<br>STE:|_On the ground, the valvecan be opened with the override handle._(Passive_)_<br>On the ground,you can openthe valve with the override handle. (Active)|
-|---|---|
-|_Non-STE:_<br>STE:|_Additivesare not used in this type of fuel._(Passive)<br>We do not useadditives in this type of fuel. (Active)<br>or|
-|STE:|This type of fueldoes not containadditives.|
+| _Non-STE:_<br>STE: | _On the ground, the valvecan be opened with the override handle._(Passive_)_<br>On the ground,you can openthe valve with the override handle. (Active) |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| _Non-STE:_<br>STE: | _Additivesare not used in this type of fuel._(Passive)<br>We do not useadditives in this type of fuel. (Active)<br>or                                  |
+| STE:               | This type of fueldoes not containadditives.                                                                                                            |
 
 When you find complex sentences in the passive voice that include auxiliary verbs, decide if you want to write a procedural sentence or a descriptive sentence. 
 
 ##### **Examples:** 
 
-|_Non-STE:_|_The volume control can be adjusted._|
-|---|---|
-|STE:<br>STE:|Adjust the volume control. (Procedural sentence)<br>You can adjust the volume control. (Descriptive sentence)|
-|_Non-STE:_<br>STE:<br>STE:|_The oil temperature must be adjustedbefore the start of the test._<br>Before you start the test, adjust the oil temperature. (Procedural sentence)<br> <br>Before the start of the test, the operator must adjust the oil temperature.<br>(Descriptive sentence)|
-|_Non-STE:_|_The valve will be adjusted during the test._|
-|STE:<br>STE:|During the test, adjust the valve. (Procedural sentence)<br> <br>NOTE: You will adjust the valve during the test. (Descriptive sentence)|
-|_Non-STE:_|_The component is to be installedbefore you do the test._|
-|STE:<br>STE:|Before you do the test, install the component. (Procedural sentence)<br> <br>Before the test, the operator must install the component. (Descriptive sentence)|
+| _Non-STE:_                 | _The volume control can be adjusted._                                                                                                                                                                                                                             |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| STE:<br>STE:               | Adjust the volume control. (Procedural sentence)<br>You can adjust the volume control. (Descriptive sentence)                                                                                                                                                     |
+| _Non-STE:_<br>STE:<br>STE: | _The oil temperature must be adjustedbefore the start of the test._<br>Before you start the test, adjust the oil temperature. (Procedural sentence)<br> <br>Before the start of the test, the operator must adjust the oil temperature.<br>(Descriptive sentence) |
+| _Non-STE:_                 | _The valve will be adjusted during the test._                                                                                                                                                                                                                     |
+| STE:<br>STE:               | During the test, adjust the valve. (Procedural sentence)<br> <br>NOTE: You will adjust the valve during the test. (Descriptive sentence)                                                                                                                          |
+| _Non-STE:_                 | _The component is to be installedbefore you do the test._                                                                                                                                                                                                         |
+| STE:<br>STE:               | Before you do the test, install the component. (Procedural sentence)<br> <br>Before the test, the operator must install the component. (Descriptive sentence)                                                                                                     |
 
 ### **How to describe an action** 
 
@@ -1001,15 +1001,15 @@ _<mark>Non-STE: Check the laptop battery.</mark>_ <mark>STE: Do a check of the l
 
 # **Section 4 – Sentences** 
 
-|**Short sent**<br>Rule 4.1|**Summary of the rules**<br>**ences and clear sentence structures**<br>Write short and clear sentences.|
-|---|---|
-|Rule 4.2|Do not omit words or use contractions to make your sentences shorter.|
-|**Vertical lis**|**ts**|
-|Rule 4.3|Use a vertical list for complex texts.|
-|**Connectin**|**g words and connecting phrases**|
-|Rule 4.4|Use connecting words and connecting phrases to connect sentences that contain<br>related topics.|
-|**Articles a**|**nd demonstrative adjectives**|
-|Rule 4.5|When applicable, use an article (the, a, an) or a demonstrative adjective (this, these)<br>before a noun or a multi-word noun.|
+| **Short sent**<br>Rule 4.1 | **Summary of the rules**<br>**ences and clear sentence structures**<br>Write short and clear sentences.                        |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Rule 4.2                   | Do not omit words or use contractions to make your sentences shorter.                                                          |
+| **Vertical lis**           | **ts**                                                                                                                         |
+| Rule 4.3                   | Use a vertical list for complex texts.                                                                                         |
+| **Connectin**              | **g words and connecting phrases**                                                                                             |
+| Rule 4.4                   | Use connecting words and connecting phrases to connect sentences that contain<br>related topics.                               |
+| **Articles a**             | **nd demonstrative adjectives**                                                                                                |
+| Rule 4.5                   | When applicable, use an article (the, a, an) or a demonstrative adjective (this, these)<br>before a noun or a multi-word noun. |
 
 ### **Short sentences and clear sentence structures** 
 
@@ -1065,7 +1065,7 @@ Do not omit the subject because the reader will not understand the action.
 
 _<mark>Non-STE: If installed, remove the shims.</mark>_ <mark>STE: If shims are installed, remove them.</mark> 
 
-_Non-STE:_ _<u>WARNING:</u> MAKE SURE THAT THE POTABLE WATER SYSTEM IS NOT PRESSURIZED. IF NOT, THIS CAN CAUSE INJURY TO PERSONS._ STE: <u>WARNING:</u> MAKE SURE THAT THE POTABLE WATER SYSTEM IS NOT PRESSURIZED. A PRESSURIZED SYSTEM CAN CAUSE INJURY TO PERSONS. 
+_Non-STE:_ _<u>WARNING:</u> MAKE SURE THAT THE POTABLE WATER SYSTEM IS NOT PRESSURiseD. IF NOT, THIS CAN CAUSE INJURY TO PERSONS._ STE: <u>WARNING:</u> MAKE SURE THAT THE POTABLE WATER SYSTEM IS NOT PRESSURiseD. A PRESSURiseD SYSTEM CAN CAUSE INJURY TO PERSONS. 
 
 Do not omit articles to make the sentence shorter because omitted articles can cause ambiguity. 
 
@@ -1121,27 +1121,27 @@ To know which marks or symbols to use, refer to the applicable specifications fo
 
 In the two examples that follow, the vertical lists give a list of parts and documents. Dashes and bullet points identify each of these parts and documents. 
 
-|_Non-STE:_|_The wheel assembly comprises the tire, the tube, the spokes, the spoke fittings,_<br>_the valve, and the hub._|
-|---|---|
-|STE:|The wheel assembly has these parts:<br>- The tire<br>- The tube<br>- The spokes<br>- The spoke fittings<br>- The valve<br>- The hub.|
+| _Non-STE:_ | _The wheel assembly comprises the tire, the tube, the spokes, the spoke fittings,_<br>_the valve, and the hub._                      |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| STE:       | The wheel assembly has these parts:<br>- The tire<br>- The tube<br>- The spokes<br>- The spoke fittings<br>- The valve<br>- The hub. |
 
-|_Non-STE:_|_The report must include each of the following: a completed REC-1 form, a three-_<br>_view drawing of the unit, a photograph of the unit, a copy of the source data._|
-|---|---|
-|STE:|The report must include:<br>•A completed REC-1 form|
-||•A three-view drawing of the unit<br>•A photograph of the unit<br>•A copy of the source data.|
+| _Non-STE:_ | _The report must include each of the following: a completed REC-1 form, a three-_<br>_view drawing of the unit, a photograph of the unit, a copy of the source data._ |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| STE:       | The report must include:<br>•A completed REC-1 form                                                                                                                   |
+|            | •A three-view drawing of the unit<br>•A photograph of the unit<br>•A copy of the source data.                                                                         |
 
 In the two examples that follow, the vertical lists give a procedure and a description. Letters and numbers identify each work step. 
 
-|_Non-STE:_|_If the RAT is retracted, remove the tag, open the isolating valves and, ensuring_<br>_that there is no possibility of fouling, slowly extend the RAT to its full stroke. Close_<br>_the isolating valves; tag “DO NOT OPERATE.” Release the DOWN pressure._|
-|---|---|
-|STE:|If the Ram Air Turbine (RAT) is retracted:<br>(a) Remove the tag.<br>(b) Open the isolating valves.<br>(c) Slowly and fully extend the RAT and make sure that it does not touch<br>other parts.<br>(d) Close the isolating valves.<br>(e) Tag the isolating valves with “DO NOT OPERATE.”<br>(f) Release the DOWN pressure.|
+| _Non-STE:_ | _If the RAT is retracted, remove the tag, open the isolating valves and, ensuring_<br>_that there is no possibility of fouling, slowly extend the RAT to its full stroke. Close_<br>_the isolating valves; tag “DO NOT OPERATE.” Release the DOWN pressure._                                                                |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| STE:       | If the Ram Air Turbine (RAT) is retracted:<br>(a) Remove the tag.<br>(b) Open the isolating valves.<br>(c) Slowly and fully extend the RAT and make sure that it does not touch<br>other parts.<br>(d) Close the isolating valves.<br>(e) Tag the isolating valves with “DO NOT OPERATE.”<br>(f) Release the DOWN pressure. |
 
-|_Non-STE:_|_During the final movement of the landing gear retraction, the door operating bar_|
-|---|---|
-||_located on the leg contacts and turns the latch, withdrawing the roller from the slot_<br>_and the second roller entraps the door operating bar._|
-|STE:|When the landing gear retracts:|
-||(1) The door operating bar on the leg touches and turns the latch.<br>(2) The roller moves out of the slot.|
-||(3) The second roller keeps the door operating bar in position.|
+| _Non-STE:_ | _During the final movement of the landing gear retraction, the door operating bar_                                                                 |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+|            | _located on the leg contacts and turns the latch, withdrawing the roller from the slot_<br>_and the second roller entraps the door operating bar._ |
+| STE:       | When the landing gear retracts:                                                                                                                    |
+|            | (1) The door operating bar on the leg touches and turns the latch.<br>(2) The roller moves out of the slot.                                        |
+|            | (3) The second roller keeps the door operating bar in position.                                                                                    |
 
 You can use vertical lists in procedural and descriptive writings, but you cannot mix the two types of writing in the same vertical list. 
 
@@ -1149,41 +1149,41 @@ In safety instructions, include negative commands (DO NOT) where necessary for e
 
 ##### **Example:** 
 
-|_Non-STE:_|_CAUTION:_<br>_WHEN YOU GET ACCESS TO THE REAR FUSELAGE THROUGH_<br>_THE ACCESS PANEL,DO NOT:_|
-|---|---|
-||-<br>_PUT YOUR FEET ON THE APU LINE._<br>-<br>_USE THE APU LINE AS A HANDLE._|
-|STE:|CAUTION:<br>WHEN YOU GET ACCESS TO THE REAR FUSELAGE THROUGH|
-||THE ACCESS PANEL:|
-||-<br>DO NOTPUT YOUR FEET ON THE APU LINE.|
-||-<br>DO NOTUSE THE APU LINE AS A HANDLE.|
+| _Non-STE:_ | _CAUTION:_<br>_WHEN YOU GET ACCESS TO THE REAR FUSELAGE THROUGH_<br>_THE ACCESS PANEL,DO NOT:_ |
+| ---------- | ---------------------------------------------------------------------------------------------- |
+|            | -<br>_PUT YOUR FEET ON THE APU LINE._<br>-<br>_USE THE APU LINE AS A HANDLE._                  |
+| STE:       | CAUTION:<br>WHEN YOU GET ACCESS TO THE REAR FUSELAGE THROUGH                                   |
+|            | THE ACCESS PANEL:                                                                              |
+|            | -<br>DO NOTPUT YOUR FEET ON THE APU LINE.                                                      |
+|            | -<br>DO NOTUSE THE APU LINE AS A HANDLE.                                                       |
 
 Always make sure that each item in the vertical list connects clearly and correctly to the first part of the vertical list (the text that is before the colon). 
 
 ##### **Example:** 
 
-|_Non-STE:_|_Do not use acetone for cleaning these parts after the repair:_<br>-<br>_the service cabinet,_|
-|---|---|
-||-<br>_the toilet shrouds with the supports,_<br>-<br>_parts made of polycarbonate._|
-|STE:|After the repair, do not use acetone to clean:<br>-<br>The service cabinet<br>-<br>The toilet shrouds|
-||-<br>The toilet shroud supports|
-||-<br>Parts made of polycarbonate.|
+| _Non-STE:_ | _Do not use acetone for cleaning these parts after the repair:_<br>-<br>_the service cabinet,_        |
+| ---------- | ----------------------------------------------------------------------------------------------------- |
+|            | -<br>_the toilet shrouds with the supports,_<br>-<br>_parts made of polycarbonate._                   |
+| STE:       | After the repair, do not use acetone to clean:<br>-<br>The service cabinet<br>-<br>The toilet shrouds |
+|            | -<br>The toilet shroud supports                                                                       |
+|            | -<br>Parts made of polycarbonate.                                                                     |
 
 Always make sure that the layout of your vertical list is easy to read. In the example that follows, there is a second vertical list included in the primary vertical list. Use the same level for all items in the vertical list. 
 
 ##### **Example:** 
 
-|_Non-STE:_|_Remove these parts:_<br>- _The four screws (3)_<br>- _The four washers (4)_<br>- _The flange (2) that includes:_<br>_- The two O-rings (6)_<br>_- The seals (7)_<br>- _The shims (8)_<br>- _The spring (9)._|
-|---|---|
-|STE:|Remove these parts:<br>- The four screws (3)<br>- The four washers (4)<br>- The flange (2) (that includes the two O-rings (6) and the seals (7))<br>- The shims (8)<br>- The spring (9).|
+| _Non-STE:_ | _Remove these parts:_<br>- _The four screws (3)_<br>- _The four washers (4)_<br>- _The flange (2) that includes:_<br>_- The two O-rings (6)_<br>_- The seals (7)_<br>- _The shims (8)_<br>- _The spring (9)._ |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| STE:       | Remove these parts:<br>- The four screws (3)<br>- The four washers (4)<br>- The flange (2) (that includes the two O-rings (6) and the seals (7))<br>- The shims (8)<br>- The spring (9).                      |
 
 An item in a vertical list can contain a verb and not be a full sentence. Then, you do not use a period at the end of that item. 
 
 ##### **Example:** 
 
-|_Non-STE:_|_The middle part of the reservoir has the components that follow:_<br>- _One check valve that prevents the backflow of fluid._<br>- _One air relief valve that opens at a pressure of 25 psi._|
-|---|---|
-||- _One transfer pipe connected to the pressurization manifold._|
-|STE:|The middle part of the reservoir has the components that follow:<br>-One check valve that prevents the backflow of fluid<br>-One air relief valve that opens at a pressure of 25 psi<br>-One transfer pipe connected to the pressurization manifold.|
+| _Non-STE:_ | _The middle part of the reservoir has the components that follow:_<br>- _One check valve that prevents the backflow of fluid._<br>- _One air relief valve that opens at a pressure of 25 psi._                                                       |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|            | - _One transfer pipe connected to the pressurization manifold._                                                                                                                                                                                      |
+| STE:       | The middle part of the reservoir has the components that follow:<br>-One check valve that prevents the backflow of fluid<br>-One air relief valve that opens at a pressure of 25 psi<br>-One transfer pipe connected to the pressurization manifold. |
 
 ### **Connecting words and connecting phrases** 
 
@@ -1201,7 +1201,7 @@ Some of the connecting words that are approved in the dictionary are “and,” 
 
 (Refer to the underlined connecting words and connecting phrases.) 
 
-The localizer course aligns with the centerline of the runway. And the glideslope path is at a constant angle to the threshold of the runway. 
+The localiser course aligns with the centerline of the runway. And the glideslope path is at a constant angle to the threshold of the runway. 
 
 These safety precautions are the minimum necessary for work in the pit lane. But the local regulations can give other necessary safety precautions. 
 
@@ -1229,22 +1229,22 @@ Articles and demonstrative adjectives show the position of nouns and multi-word 
 
 ##### **Examples:** 
 
-|_Non-STE:_<br>STE:|_Turn shaft assembly._<br>Turntheshaft assembly.|
-|---|---|
-|_Non-STE:_<br>STE:|_Data module tells you how to operate unit._<br>Thisdata module tells you how to operate the unit.|
-|STE:|You can use equivalent alternatives fortheseitems.|
+| _Non-STE:_<br>STE: | _Turn shaft assembly._<br>Turntheshaft assembly.                                                   |
+| ------------------ | -------------------------------------------------------------------------------------------------- |
+| _Non-STE:_<br>STE: | _Data module tells you how to operate unit._<br>Thisdata module tells you how to operate the unit. |
+| STE:               | You can use equivalent alternatives fortheseitems.                                                 |
 
 It is not always correct English to put an article before a noun. Do not use articles in general statements or concepts. 
 
 ##### **Examples in STE:** 
 
-|STE:|Solventscan cause damage topaint.|
-|---|---|
-||(No articles before “solvents” or “paint.” The context does not give a specified<br>solvent or paint.)|
-|STE:|The machine operates withhigh efficiency.|
-||(No article before “high efficiency.” The sentence refers to a general concept.)|
-|STE:|This software increasesperformance.|
-||(No article before “performance” because it refers to an abstract quality.)|
+| STE: | Solventscan cause damage topaint.                                                                      |
+| ---- | ------------------------------------------------------------------------------------------------------ |
+|      | (No articles before “solvents” or “paint.” The context does not give a specified<br>solvent or paint.) |
+| STE: | The machine operates withhigh efficiency.                                                              |
+|      | (No article before “high efficiency.” The sentence refers to a general concept.)                       |
+| STE: | This software increasesperformance.                                                                    |
+|      | (No article before “performance” because it refers to an abstract quality.)                            |
 
 In short sentences, it can be clearer to use articles before all nouns. 
 
@@ -1270,16 +1270,16 @@ _<mark>Incorrect: Tag the circuit breaker 36L7</mark>_ <mark>. CORRECT: Tag circ
 
 # **Section 5 - Procedural writing** 
 
-|**Sentences**|**Summary of the rules**<br>|
-|---|---|
-|Rule 5.1|Write short sentences. Use a maximum of 20 words in each sentence.|
-|Rule 5.2|Write only one instruction in each sentence unless two or more actions occur at the<br>same time.|
-|**Verbs in p**|**rocedures**|
-|Rule 5.3|Write instructions in the imperative (command) form.|
-|**Descriptiv**|**e statements in instructions**|
-|Rule 5.4|When there is a condition that the reader must know about first, start the instruction<br>with a descriptive statement. Then, divide that descriptive statement from the<br>command with a comma.|
-|**Notes**||
-|Rule 5.5|Write notes only to give information, not instructions.|
+| **Sentences**  | **Summary of the rules**<br>                                                                                                                                                                      |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rule 5.1       | Write short sentences. Use a maximum of 20 words in each sentence.                                                                                                                                |
+| Rule 5.2       | Write only one instruction in each sentence unless two or more actions occur at the<br>same time.                                                                                                 |
+| **Verbs in p** | **rocedures**                                                                                                                                                                                     |
+| Rule 5.3       | Write instructions in the imperative (command) form.                                                                                                                                              |
+| **Descriptiv** | **e statements in instructions**                                                                                                                                                                  |
+| Rule 5.4       | When there is a condition that the reader must know about first, start the instruction<br>with a descriptive statement. Then, divide that descriptive statement from the<br>command with a comma. |
+| **Notes**      |                                                                                                                                                                                                   |
+| Rule 5.5       | Write notes only to give information, not instructions.                                                                                                                                           |
 
 ### **Sentences** 
 
@@ -1297,9 +1297,9 @@ Warnings, cautions, and other safety instructions must also obey this rule.
 
 <u>CAUTION:</u> WHEN YOU REMOVE THE SHROUD (26), BE CAREFUL NOT TO CAUSE DAMAGE TO THE SURFACE OF THE FLANGE ASSEMBLY (22). (This sentence has 20 words.) 
 
-|_Non-STE:_|_Put preservation oil into the unit through the vent hole until the oil level is_<br>_approximately 6 mm (0.24 inches) below the surface of the flange cover._<br>(25 words)|
-|---|---|
-|STE:|Put preservation oil into the unit through the vent hole. (10 words) Continue until<br>the oil level is approximately 6 mm (0.24 in) below the surface of the flange cover.<br>(16 words)|
+| _Non-STE:_ | _Put preservation oil into the unit through the vent hole until the oil level is_<br>_approximately 6 mm (0.24 inches) below the surface of the flange cover._<br>(25 words)              |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| STE:       | Put preservation oil into the unit through the vent hole. (10 words) Continue until<br>the oil level is approximately 6 mm (0.24 in) below the surface of the flange cover.<br>(16 words) |
 
 In the last STE example, the long sentence is divided into two shorter sentences, which are easier to read. You cannot divide this instruction into two different work steps, because the two actions occur at the same time. 
 
@@ -1313,11 +1313,11 @@ If there are too many instructions in a sentence, the sentence is not easy to re
 
 ##### **Examples:** 
 
-|STE:|(1)  Set the TEST switch to the middle position.<br>(2)  Make sure that all the switches on the control panel are OFF.<br>(Two work steps)|
-|---|---|
-|_Non-STE:_|_Set the TEST switch to the middle position and release the SHORT-CIRCUIT_<br>_TEST switch._|
-|STE:|A.   Set the TEST switch to the middle position.<br>B.   Release the SHORT-CIRCUIT TEST switch.|
-||(The original sentence is divided into two different work steps because the two<br>actions do not occur at the same time.)|
+| STE:       | (1)  Set the TEST switch to the middle position.<br>(2)  Make sure that all the switches on the control panel are OFF.<br>(Two work steps) |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| _Non-STE:_ | _Set the TEST switch to the middle position and release the SHORT-CIRCUIT_<br>_TEST switch._                                               |
+| STE:       | A.   Set the TEST switch to the middle position.<br>B.   Release the SHORT-CIRCUIT TEST switch.                                            |
+|            | (The original sentence is divided into two different work steps because the two<br>actions do not occur at the same time.)                 |
 
 You can write more than one instruction in a sentence when two actions occur at the same time. 
 
@@ -1413,51 +1413,51 @@ Notes must not give instructions, requirements, or limits.
 
 ##### **Examples in STE:** 
 
-|NOTE:|The gyroscope will become stable after approximately 15 seconds.|
-|---|---|
-|NOTE:|It is not necessary to remove the nameplate (33) from the flange (27).|
-|NOTE:|You can use equivalent alternatives for these items.|
+| NOTE: | The gyroscope will become stable after approximately 15 seconds.       |
+| ----- | ---------------------------------------------------------------------- |
+| NOTE: | It is not necessary to remove the nameplate (33) from the flange (27). |
+| NOTE: | You can use equivalent alternatives for these items.                   |
 
 A note can have one or more sentences. Each sentence in a note can have a maximum of 25 words. 
 
 ##### **Examples in STE:** 
 
-|NOTE:|During the subsequent test, you get the cracking pressure when the fuel flow from<br>the CROSS FEED port is more than 5 cc/minute.<br>(One sentence, 22 words.)|
-|---|---|
-|NOTE:|The data collection is not completed. Thus, the statistics module can give incorrect<br>results.|
-||(Two sentences, 6 words and 8 words.)|
+| NOTE: | During the subsequent test, you get the cracking pressure when the fuel flow from<br>the CROSS FEED port is more than 5 cc/minute.<br>(One sentence, 22 words.) |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NOTE: | The data collection is not completed. Thus, the statistics module can give incorrect<br>results.                                                                |
+|       | (Two sentences, 6 words and 8 words.)                                                                                                                           |
 
 Do not use the imperative form in a note. If you use the imperative form, the note becomes an instruction for a work step. 
 
 ##### **Example:** 
 
-|_Non-STE:_|_NOTE:_|_Make surethat the avionics ventilation system continues to operate_<br>_correctly._|
-|---|---|---|
-|||(This text is not a note because it contains the imperative form.)|
-|STE:|(6)|Make sure that the avionics ventilation system continues to operate<br>correctly.|
-|||(This is work step number 6 in the applicable procedure.)|
+| _Non-STE:_ | _NOTE:_ | _Make surethat the avionics ventilation system continues to operate_<br>_correctly._ |
+| ---------- | ------- | ------------------------------------------------------------------------------------ |
+|            |         | (This text is not a note because it contains the imperative form.)                   |
+| STE:       | (6)     | Make sure that the avionics ventilation system continues to operate<br>correctly.    |
+|            |         | (This is work step number 6 in the applicable procedure.)                            |
 
 If you include instructions in a note, it is possible that the reader will not see the information. If the information given in a note is important to prevent damage or injury, you must give such information in a safety instruction. 
 
 ##### **Examples:** 
 
-|_Non-STE:_|<br>_NOTE:_|_When you connect the lines, do not bend them too much. If you bend_<br>_the lines too much, you can cause damage to them._<br>(This text is not a note. It is a safety instruction.)|
-|---|---|---|
-|STE:|<br>CAUTION:|WHEN YOU CONNECT THE LINES, DO NOT BEND THEM TOO<br>MUCH. IF YOU BEND THE LINES TOO MUCH, YOU CAN CAUSE<br>DAMAGE TO THEM.|
-|_Non-STE:_|<br>_NOTE:_|_Before closing the hatch, it is mandatory to ensure that no persons are_<br>_in the crew rest compartment. When the hatch is closed, there is no_<br>_airflow to the compartment and therefore there is a risk of suffocation._|
-|||(Although the non-STE text does not contain the imperative form, it is<br>not a note. It is a safety instruction.)|
-|STE:|<br>WARNING:|BEFORE YOU CLOSE THE HATCH, MAKE SURE THAT NO<br>PERSONS ARE IN THE CREW REST COMPARTMENT. WHEN THE<br>HATCH IS CLOSED, THERE IS NO AIRFLOW TO THE<br>COMPARTMENT AND THERE IS A RISK OF SUFFOCATION.|
+| _Non-STE:_ | <br>_NOTE:_  | _When you connect the lines, do not bend them too much. If you bend_<br>_the lines too much, you can cause damage to them._<br>(This text is not a note. It is a safety instruction.)                                            |
+| ---------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| STE:       | <br>CAUTION: | WHEN YOU CONNECT THE LINES, DO NOT BEND THEM TOO<br>MUCH. IF YOU BEND THE LINES TOO MUCH, YOU CAN CAUSE<br>DAMAGE TO THEM.                                                                                                       |
+| _Non-STE:_ | <br>_NOTE:_  | _Before closing the hatch, it is mandatory to ensure that no persons are_<br>_in the crew rest compartment. When the hatch is closed, there is no_<br>_airflow to the compartment and therefore there is a risk of suffocation._ |
+|            |              | (Although the non-STE text does not contain the imperative form, it is<br>not a note. It is a safety instruction.)                                                                                                               |
+| STE:       | <br>WARNING: | BEFORE YOU CLOSE THE HATCH, MAKE SURE THAT NO<br>PERSONS ARE IN THE CREW REST COMPARTMENT. WHEN THE<br>HATCH IS CLOSED, THERE IS NO AIRFLOW TO THE<br>COMPARTMENT AND THERE IS A RISK OF SUFFOCATION.                            |
 
 Do not use a note to give limits, tolerances, or results of a work step. This information must come directly after the related action in the work step. 
 
 ##### **Examples:** 
 
-|_Non-STE:_|_B._|_Measure the leakage from the outlet port._|
-|---|---|---|
-||_NOTE:_|_The leakage must not be more than 0.5 cc/minute._|
-|||(This note gives a limit that is important for the work step.)|
-|STE:|B.|Measure the leakage from the outlet port. The leakage must not be<br>more than 0.5 cc/minute.|
-|||(This work step is correct. It gives the action first and then the related<br>limit.)|
+| _Non-STE:_ | _B._    | _Measure the leakage from the outlet port._                                                   |
+| ---------- | ------- | --------------------------------------------------------------------------------------------- |
+|            | _NOTE:_ | _The leakage must not be more than 0.5 cc/minute._                                            |
+|            |         | (This note gives a limit that is important for the work step.)                                |
+| STE:       | B.      | Measure the leakage from the outlet port. The leakage must not be<br>more than 0.5 cc/minute. |
+|            |         | (This work step is correct. It gives the action first and then the related<br>limit.)         |
 
 ##### <u>How to use notes correctly</u> 
 
@@ -1509,19 +1509,19 @@ In a descriptive text, give information gradually and make sure that each senten
 
 _<mark>Non-STE: Instrument Landing System</mark>_ 
 
-_During the approach to the runway, deviation pointers in the course indicators give commands to fly up or down and left or right. This information comes from the VHF transceivers, which are part of the Instrument Landing System. This helps the pilot during the landing approach. When the pilot responds to the commands, the aircraft can be flown over the runway centerline (localizer) and at a fixed angle (glideslope) to the runway threshold. The localizer signals are processed by the transceiver and data are transmitted to Air Traffic Control._ 
+_During the approach to the runway, deviation pointers in the course indicators give commands to fly up or down and left or right. This information comes from the VHF transceivers, which are part of the Instrument Landing System. This helps the pilot during the landing approach. When the pilot responds to the commands, the aircraft can be flown over the runway centerline (localiser) and at a fixed angle (glideslope) to the runway threshold. The localiser signals are processed by the transceiver and data are transmitted to Air Traffic Control._ 
 
 The STE text that follows shows how you can use short sentences to write a clear text that gives information gradually. Each sentence contains only one subject in underlined texts. 
 
 <mark>STE: Instrument Landing System</mark> 
 
-The Instrument Landing System (the system) on the aircraft shows data that helps the pilot during the approach to the runway. This system shows the pilot the deviations from the localizer course and the glideslope path. The localizer course aligns with the centerline of the runway. And the glideslope path is at a constant angle to the threshold of the runway. During the approach to the runway, deviation <u>pointers in the course indicators show the pilot in which direction the aircraft must</u> go: 
+The Instrument Landing System (the system) on the aircraft shows data that helps the pilot during the approach to the runway. This system shows the pilot the deviations from the localiser course and the glideslope path. The localiser course aligns with the centerline of the runway. And the glideslope path is at a constant angle to the threshold of the runway. During the approach to the runway, deviation <u>pointers in the course indicators show the pilot in which direction the aircraft must</u> go: 
 
-- Left or right (for the localizer) 
+- Left or right (for the localiser) 
 
 - Up or down (for the glideslope). 
 
-<u>This data about deviations from the localizer course and glideslope path comes</u> from two VHF transceivers. These transceivers transmit this data to Air Traffic Control. 
+<u>This data about deviations from the localiser course and glideslope path comes</u> from two VHF transceivers. These transceivers transmit this data to Air Traffic Control. 
 
 The STE text is divided into two paragraphs and has a logical structure: 
 
@@ -1543,49 +1543,49 @@ When you use key words and key phrases, make sure that you do not change them in
 
 ##### **Example in STE:** 
 
-|Sentence 1|Sentence 2|
-|---|---|
-|The Instrument LandingSystem(the system)|Thissystem shows thepilotthe deviations from|
-|on the aircraftshowsdata that helps thepilot|the localizer course and the glideslope path.|
-|during the approach to the runway.||
+| Sentence 1                                   | Sentence 2                                    |
+| -------------------------------------------- | --------------------------------------------- |
+| The Instrument LandingSystem(the system)     | Thissystem shows thepilotthe deviations from  |
+| on the aircraftshowsdata that helps thepilot | the localiser course and the glideslope path. |
+| during the approach to the runway.           |                                               |
 
 Sentence 2 uses the key words “system,” “show,” and “pilot” again to add more information about sentence 1. 
 
-|Sentence 2|Sentences 3 and 4|
-|---|---|
-|This system shows the pilot the deviations|Thelocalizer coursealigns with the centerline|
-|from thelocalizer courseand theglideslope|of the runway. And theglideslope pathis at a|
-|path.|constant angle to the threshold of the runway.|
+| Sentence 2                                 | Sentences 3 and 4                              |
+| ------------------------------------------ | ---------------------------------------------- |
+| This system shows the pilot the deviations | Thelocaliser coursealigns with the centerline  |
+| from thelocaliser courseand theglideslope  | of the runway. And theglideslope pathis at a   |
+| path.                                      | constant angle to the threshold of the runway. |
 
-Sentences 3 and 4 use the key words “localizer course” and “glideslope path” again and add new information. 
+Sentences 3 and 4 use the key words “localiser course” and “glideslope path” again and add new information. 
 
-|Sentence 3|Sentence 4|
-|---|---|
-|The localizer course aligns with the centerline|And the glideslope path is at a constant angle|
-|of therunway.|to the threshold of therunway.|
+| Sentence 3                                      | Sentence 4                                     |
+| ----------------------------------------------- | ---------------------------------------------- |
+| The localiser course aligns with the centerline | And the glideslope path is at a constant angle |
+| of therunway.                                   | to the threshold of therunway.                 |
 
 Sentences 3 and 4 also include the key word “runway,” which refers back to sentence 1. 
 
-|Sentences 3 and 4|Sentence 5|
-|---|---|
-|Thelocalizercourse aligns with the centerline|During the approach to therunway, deviation|
-|of therunway.And theglideslopepath is at a|pointers in the course indicators show the pilot|
-|constant angle to the threshold of therunway.|in which direction the aircraft must go:<br>- Left or right (for thelocalizer)<br>- Up or down (for theglideslope).|
+| Sentences 3 and 4                             | Sentence 5                                                                                                          |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Thelocalisercourse aligns with the centerline | During the approach to therunway, deviation                                                                         |
+| of therunway.And theglideslopepath is at a    | pointers in the course indicators show the pilot                                                                    |
+| constant angle to the threshold of therunway. | in which direction the aircraft must go:<br>- Left or right (for thelocaliser)<br>- Up or down (for theglideslope). |
 
-Sentence 5 also connects to the previous sentences 3 and 4 with the key word “runway” again. Then, sentence 5 gives more information about the function of indicators for the localizer and the glideslope. 
+Sentence 5 also connects to the previous sentences 3 and 4 with the key word “runway” again. Then, sentence 5 gives more information about the function of indicators for the localiser and the glideslope. 
 
-|Sentence 2|Sentence 5|
-|---|---|
-|This systemshows the pilotthedeviations|During the approach to the runway,deviation|
-|from thelocalizercourse and theglideslope<br>path.|pointers in the course indicatorsshow the pilot<br>in which direction the aircraft must go:<br>- Left or right (for thelocalizer)<br>- Up or down (for theglideslope).|
+| Sentence 2                                         | Sentence 5                                                                                                                                                             |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| This systemshows the pilotthedeviations            | During the approach to the runway,deviation                                                                                                                            |
+| from thelocalisercourse and theglideslope<br>path. | pointers in the course indicatorsshow the pilot<br>in which direction the aircraft must go:<br>- Left or right (for thelocaliser)<br>- Up or down (for theglideslope). |
 
 Key words and key phrases (for example, “show(s) the pilot”) give a logical connection between sentences 2 and 5. 
 
-|Sentence 1|Sentence 5|
-|---|---|
-|The Instrument Landing System in the aircraft|During the approach to the runway,deviation|
-|showsdata that helps thepilot during the|pointers in the course indicatorsshow the pilot|
-|approach to the runway.|in which direction the aircraft must go:<br>- Left or right (for the localizer)<br>- Up or down (for the glideslope).|
+| Sentence 1                                    | Sentence 5                                                                                                            |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| The Instrument Landing System in the aircraft | During the approach to the runway,deviation                                                                           |
+| showsdata that helps thepilot during the      | pointers in the course indicatorsshow the pilot                                                                       |
+| approach to the runway.                       | in which direction the aircraft must go:<br>- Left or right (for the localiser)<br>- Up or down (for the glideslope). |
 
 Sentences 1 and 5 are also connected to make a logical paragraph. 
 
@@ -1593,9 +1593,9 @@ Sentence 5 also uses the key phrase “during the approach to the runway” from
 
 There is also a logical connection between the two paragraphs. 
 
-<u>Paragraph 1</u> (Sentences 1 thru 5): deviation, <u>data, localizer, glideslope</u> 
+<u>Paragraph 1</u> (Sentences 1 thru 5): deviation, <u>data, localiser, glideslope</u> 
 
-- <u>Paragraph 2</u> (Sentences 6 and 7): This data about deviations from the localizer course and <u>glideslope path comes from two VHF transceivers. These transceivers transmit this data to Air Traffic Control.</u> 
+- <u>Paragraph 2</u> (Sentences 6 and 7): This data about deviations from the localiser course and <u>glideslope path comes from two VHF transceivers. These transceivers transmit this data to Air Traffic Control.</u> 
 
 ### **Sentences** 
 
@@ -1621,13 +1621,13 @@ In the example, the underlined topic sentence at the start of each paragraph hel
 
 ##### **Example:** 
 
-|STE:|1.<br>Lightnin|g Strike|
-|---|---|---|
-||A. Gen|eral|
-||(1)|A lightning strike can cause damage to the aircraft.The damage<br>usually occurs at the attachment points. The attachment points<br>include:|
-|||-<br>The nose of the fuselage<br>-<br>The tail section<br>-<br>The propellers<br>-<br>The wing tips<br>-<br>The tips of the stabilizer<br>-<br>The trailing edge of the stabilizer<br>-<br>The antennas<br>-<br>The static dischargers.|
-||(2)|From the attachment points, the lightning strike usually goes aft<br>through the structure of the aircraft.The high current of the lightning<br>strike can cause damage to the mechanical systems of the aircraft.<br>Thus, a permanent or a temporary malfunction of the electrical and<br>electronic equipment and systems can occur.|
-||(3)|If a lightning strike occurs, it is necessary to do an inspection of the<br>aircraft for damage.The maintenance personnel must do this<br>inspection before the next flight.|
+| STE: | 1.<br>Lightnin | g Strike                                                                                                                                                                                                                                                                                                                                |
+| ---- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      | A. Gen         | eral                                                                                                                                                                                                                                                                                                                                    |
+|      | (1)            | A lightning strike can cause damage to the aircraft.The damage<br>usually occurs at the attachment points. The attachment points<br>include:                                                                                                                                                                                            |
+|      |                | -<br>The nose of the fuselage<br>-<br>The tail section<br>-<br>The propellers<br>-<br>The wing tips<br>-<br>The tips of the stabiliser<br>-<br>The trailing edge of the stabiliser<br>-<br>The antennas<br>-<br>The static dischargers.                                                                                                 |
+|      | (2)            | From the attachment points, the lightning strike usually goes aft<br>through the structure of the aircraft.The high current of the lightning<br>strike can cause damage to the mechanical systems of the aircraft.<br>Thus, a permanent or a temporary malfunction of the electrical and<br>electronic equipment and systems can occur. |
+|      | (3)            | If a lightning strike occurs, it is necessary to do an inspection of the<br>aircraft for damage.The maintenance personnel must do this<br>inspection before the next flight.                                                                                                                                                            |
 
 The example has three short paragraphs, which give the text a clear structure and make it easy for the reader to understand. 
 
@@ -1649,13 +1649,13 @@ In the example that follows, the underlined topic sentence at the start of each 
 
 <mark>STE:</mark> <u><mark>Instrument Landing System</mark></u> 
 
-<u>The Instrument Landing System (the system) on the aircraft shows data that helps the pilot during the approach to the runway. This system shows the pilot the</u> deviations from the localizer course and the glideslope path. The localizer course aligns with the centerline of the runway. And the glideslope path is at a constant angle to the threshold of the runway. During the approach to the runway, deviation pointers in the course indicators show the pilot in which direction the aircraft must go: 
+<u>The Instrument Landing System (the system) on the aircraft shows data that helps the pilot during the approach to the runway. This system shows the pilot the</u> deviations from the localiser course and the glideslope path. The localiser course aligns with the centerline of the runway. And the glideslope path is at a constant angle to the threshold of the runway. During the approach to the runway, deviation pointers in the course indicators show the pilot in which direction the aircraft must go: 
 
-- Left or right (for the localizer) 
+- Left or right (for the localiser) 
 
 - Up or down (for the glideslope). 
 
-<u>This data about deviations from the localizer course and glideslope path comes from two VHF transceivers. These transceivers transmit this data to Air Traffic</u> Control. 
+<u>This data about deviations from the localiser course and glideslope path comes from two VHF transceivers. These transceivers transmit this data to Air Traffic</u> Control. 
 
 #### **Rule 6.6 Make sure that no paragraph has more than six sentences.** 
 
@@ -1663,13 +1663,13 @@ Paragraphs divide a text into logical units and help keep the reader's attention
 
 ##### **Example:** 
 
-|STE:|Description of the fuel manifold(refer to figure 10001)|
-|---|---|
-||The fuel manifold (1) has these primary parts:<br>-<br>Two motorized fuel shut-off valves (referred to in this manual as a “shut-off<br>valve”)<br>-<br>A pressure transducer (2)<br>-<br>Three fittings (10), (13) and (15).<br>(one paragraph, 1 sentence)|
-||The shut-off valve operates in the valve body (21). The valve body (21) has:<br>-<br>An aluminum alloy ball (27)<br>-<br>A retaining ring (31)<br>-<br>Two seals (26)<br>-<br>A spring (25).<br>(one paragraph, 2 sentences)|
-||The spring (25) holds the ball (27) in position to prevent internal leakage. The<br>preformed packings (18), (2) and (30) are installed on the seals (26), the shaft<br>(28), and in the valve body. They prevent external leakage. One of the two seals<br>(26), on which the spring (25) operates, has the function of a relief valve. It<br>operates when the pressure applied in the opposite direction is more than a set<br>value.<br>(one paragraph, 5 sentences)|
-||The actuator assembly (4) is of a rotary type. A DC motor, which has a permanent<br>high-speed magnet, supplies power to the actuator. Micro-switches in the actuator<br>de-energize it at the end of travel. They also send signals to the fuel control panel<br>to show the operation condition of the valve. A micro-relay controls the direction of<br>shaft rotation and an electrical connector connects the actuator assembly to the<br>aircraft electrical supply.<br>(one paragraph, 4 sentences)|
-||The pressure transducer (2) is installed downstream of the shut-off valve (in the<br>RH engine line). The fitting (10) connects the pressure transducer (2) to the fuel<br>manifold (1). A lockwire safeties the pressure transducer (2). The pressure<br>transducer (2) has an electrical connector that connects it to the Fuel Management<br>System of the aircraft.<br>(one paragraph, 4 sentences)<br>Three fittings (10), (13), and (15) connect the two shut-off valves and the pressure<br>transducer (2). They attach the fuel manifold (1) to the aircraft structure.<br>(one paragraph, 2 sentences)|
+| STE: | Description of the fuel manifold(refer to figure 10001)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      | The fuel manifold (1) has these primary parts:<br>-<br>Two motorised fuel shut-off valves (referred to in this manual as a “shut-off<br>valve”)<br>-<br>A pressure transducer (2)<br>-<br>Three fittings (10), (13) and (15).<br>(one paragraph, 1 sentence)                                                                                                                                                                                                                                                                                                                                                    |
+|      | The shut-off valve operates in the valve body (21). The valve body (21) has:<br>-<br>An aluminum alloy ball (27)<br>-<br>A retaining ring (31)<br>-<br>Two seals (26)<br>-<br>A spring (25).<br>(one paragraph, 2 sentences)                                                                                                                                                                                                                                                                                                                                                                                    |
+|      | The spring (25) holds the ball (27) in position to prevent internal leakage. The<br>preformed packings (18), (2) and (30) are installed on the seals (26), the shaft<br>(28), and in the valve body. They prevent external leakage. One of the two seals<br>(26), on which the spring (25) operates, has the function of a relief valve. It<br>operates when the pressure applied in the opposite direction is more than a set<br>value.<br>(one paragraph, 5 sentences)                                                                                                                                        |
+|      | The actuator assembly (4) is of a rotary type. A DC motor, which has a permanent<br>high-speed magnet, supplies power to the actuator. Micro-switches in the actuator<br>de-energise it at the end of travel. They also send signals to the fuel control panel<br>to show the operation condition of the valve. A micro-relay controls the direction of<br>shaft rotation and an electrical connector connects the actuator assembly to the<br>aircraft electrical supply.<br>(one paragraph, 4 sentences)                                                                                                      |
+|      | The pressure transducer (2) is installed downstream of the shut-off valve (in the<br>RH engine line). The fitting (10) connects the pressure transducer (2) to the fuel<br>manifold (1). A lockwire safeties the pressure transducer (2). The pressure<br>transducer (2) has an electrical connector that connects it to the Fuel Management<br>System of the aircraft.<br>(one paragraph, 4 sentences)<br>Three fittings (10), (13), and (15) connect the two shut-off valves and the pressure<br>transducer (2). They attach the fuel manifold (1) to the aircraft structure.<br>(one paragraph, 2 sentences) |
 
 The example has short paragraphs, which give the text a clear structure and make it easy for the reader to understand. 
 
@@ -1685,9 +1685,9 @@ The example has short paragraphs, which give the text a clear structure and make
 
 Rule 7.1 Use an applicable word (for example, “warning” or “caution”) to identify the level of risk. 
 
-|Rule 7.2|Start a safety instruction with a clear and accurate command or condition.|
-|---|---|
-|Rule 7.3|Give an explanation to show the risk or possible result.|
+| Rule 7.2 | Start a safety instruction with a clear and accurate command or condition. |
+| -------- | -------------------------------------------------------------------------- |
+| Rule 7.3 | Give an explanation to show the risk or possible result.                   |
 
 ### **Definitions** 
 
@@ -1783,15 +1783,15 @@ If it is possible, always tell your reader about the problems that can occur if 
 
 # **Section 8 - Punctuation and word count** 
 
-|**Punctuati**<br>Rule 8.1|**Summary of the rules**<br>**on**<br>You can use all standard English punctuation marks but not the semicolon (;).|
-|---|---|
-|Rule 8.2|Use hyphens (-) to connect words that are directly related.|
-|Rule 8.3|You can use parentheses:<br>- To make references to illustrations or text<br>- To include letters or numbers that identify items on an illustration or in a text<br>- To identify the work steps in a procedure<br>- To include abbreviations<br>- To give the singular and plural forms of a noun at the same time<br>- To explain words or a part of a sentence<br>- To include an alternative.|
-|**Word cou**|**nt**|
-|Rule 8.4|In a vertical list, a colon (:) has the same effect on word count as a period and shows<br>the end of a sentence.|
-|Rule 8.5|When you put text in parentheses, it counts as one word in that sentence.|
-|Rule 8.6|Count each of these elements as one word:<br>- Numbers<br>- Numbers together with units of measurement<br>- Abbreviations<br>- Alphanumeric identifiers<br>- Quoted text<br>- Titles, headings, placards, and labels<br>- Proper nouns of individuals, groups, organizations, and geopolitical entities.|
-|Rule 8.7|Hyphenated words count as one word.|
+| **Punctuati**<br>Rule 8.1 | **Summary of the rules**<br>**on**<br>You can use all standard English punctuation marks but not the semicolon (;).                                                                                                                                                                                                                                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rule 8.2                  | Use hyphens (-) to connect words that are directly related.                                                                                                                                                                                                                                                                                                                                       |
+| Rule 8.3                  | You can use parentheses:<br>- To make references to illustrations or text<br>- To include letters or numbers that identify items on an illustration or in a text<br>- To identify the work steps in a procedure<br>- To include abbreviations<br>- To give the singular and plural forms of a noun at the same time<br>- To explain words or a part of a sentence<br>- To include an alternative. |
+| **Word cou**              | **nt**                                                                                                                                                                                                                                                                                                                                                                                            |
+| Rule 8.4                  | In a vertical list, a colon (:) has the same effect on word count as a period and shows<br>the end of a sentence.                                                                                                                                                                                                                                                                                 |
+| Rule 8.5                  | When you put text in parentheses, it counts as one word in that sentence.                                                                                                                                                                                                                                                                                                                         |
+| Rule 8.6                  | Count each of these elements as one word:<br>- Numbers<br>- Numbers together with units of measurement<br>- Abbreviations<br>- Alphanumeric identifiers<br>- Quoted text<br>- Titles, headings, placards, and labels<br>- Proper nouns of individuals, groups, organizations, and geopolitical entities.                                                                                          |
+| Rule 8.7                  | Hyphenated words count as one word.                                                                                                                                                                                                                                                                                                                                                               |
 
 ### **Punctuation** 
 
@@ -1815,10 +1815,10 @@ The semicolon (;) is not permitted in STE because it lets you write very long se
 
 ##### **Examples:** 
 
-|_Non-STE:_<br>STE:|_(1)_<br>(1)<br>(2)|_Examine the removed parts; replace the damaged ones._<br>Examine the removed parts for damage.<br>Replace the damaged part(s).|
-|---|---|---|
-|_Non-STE:_|_The_<br>_stati_|_battery is not user-replaceable; it can only be replaced by an approved service_<br>_on._|
-|STE:|Use<br>repl|rs cannot replace the battery. Only specialists at approved service stations can<br>ace it.|
+| _Non-STE:_<br>STE: | _(1)_<br>(1)<br>(2) | _Examine the removed parts; replace the damaged ones._<br>Examine the removed parts for damage.<br>Replace the damaged part(s). |
+| ------------------ | ------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| _Non-STE:_         | _The_<br>_stati_    | _battery is not user-replaceable; it can only be replaced by an approved service_<br>_on._                                      |
+| STE:               | Use<br>repl         | rs cannot replace the battery. Only specialists at approved service stations can<br>ace it.                                     |
 
 #### **Rule 8.2 Use hyphens (-) to connect words that are directly related.** 
 
@@ -1840,8 +1840,8 @@ The examples that follow show how to use hyphens to connect words that are direc
 
 A hyphen is different from a dash, which divides ideas, shows a range, or gives a signal for a pause. A dash is usually longer than a hyphen, but it is at times shown as a hyphen with a space on each side. 
 
-|**Rule 8.3**|**You can use parentheses:**<br>**- To make references to illustrations or text**<br>**- To include letters or numbers that identify items on an illustration or**<br>**in a text**<br>**- To identify the work steps in a procedure**<br>**- To include abbreviations**<br>**- To give the singular and plural forms of a noun at the same time**<br>**- To explain words or a part of a sentence**<br>**- To include an alternative.**|
-|---|---|
+| **Rule 8.3** | **You can use parentheses:**<br>**- To make references to illustrations or text**<br>**- To include letters or numbers that identify items on an illustration or**<br>**in a text**<br>**- To identify the work steps in a procedure**<br>**- To include abbreviations**<br>**- To give the singular and plural forms of a noun at the same time**<br>**- To explain words or a part of a sentence**<br>**- To include an alternative.** |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 In STE, you can use parentheses as follows: 
 
@@ -1917,13 +1917,13 @@ Each item in a vertical list that comes after the colon counts as a new sentence
 
 ##### **Example in STE:** 
 
-|To extinguish a possible fire, portable fire extinguishers are installed||
-|---|---|
-|in these areas:|(13 words)|
-|-<br>The cockpit|(2 words)|
-|-<br>The cabin|(2 words)|
-|-<br>The cabin sub-compartment|(3 words)|
-|-<br>The crew rest compartment.|(4 words)|
+| To extinguish a possible fire, portable fire extinguishers are installed |            |
+| ------------------------------------------------------------------------ | ---------- |
+| in these areas:                                                          | (13 words) |
+| -<br>The cockpit                                                         | (2 words)  |
+| -<br>The cabin                                                           | (2 words)  |
+| -<br>The cabin sub-compartment                                           | (3 words)  |
+| -<br>The crew rest compartment.                                          | (4 words)  |
 
 #### **Rule 8.5 When you put text in parentheses, it counts as one word in that sentence.** 
 
@@ -1939,13 +1939,13 @@ If there is an identifier in parentheses (a number, a letter, or an alphanumeric
 
 ##### **Examples in STE:** 
 
-|Remove the safety pin (10).|(5 words)|
-|---|---|
-|Installation of a Business Class (B/C) Seat|(7 words)|
-|Hardware and Software Configuration Check of the<br>In-Flight Entertainment (IFE) System|(11 words)|
+| Remove the safety pin (10).                                                              | (5 words)  |
+| ---------------------------------------------------------------------------------------- | ---------- |
+| Installation of a Business Class (B/C) Seat                                              | (7 words)  |
+| Hardware and Software Configuration Check of the<br>In-Flight Entertainment (IFE) System | (11 words) |
 
-|**Rule 8.6**|**Count each of these elements as one word:**<br>**- Numbers**<br>**- Numbers together with units of measurement**<br>**- Abbreviations**<br>**- Alphanumeric identifiers**<br>**- Quoted text**<br>**- Titles, headings, and text on placards and labels**<br>**- Proper nouns of individuals, groups, organizations,**<br>**and geopolitical entities.**|
-|---|---|
+| **Rule 8.6** | **Count each of these elements as one word:**<br>**- Numbers**<br>**- Numbers together with units of measurement**<br>**- Abbreviations**<br>**- Alphanumeric identifiers**<br>**- Quoted text**<br>**- Titles, headings, and text on placards and labels**<br>**- Proper nouns of individuals, groups, organizations,**<br>**and geopolitical entities.** |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 When you count words for sentence length, count each of these as one word: 
 
@@ -1953,11 +1953,11 @@ When you count words for sentence length, count each of these as one word:
 
 ##### **Examples in STE:** 
 
-|Do steps 13 thru 16 a minimum of three times.|(10 words)|
-|---|---|
-|(“13” and “16” are numbers and each of them counts as one word.)||
-|The spar box has twenty-one ribs.|(6 words)|
-|(“Twenty-one” is a number and counts as one word.)||
+| Do steps 13 thru 16 a minimum of three times.                    | (10 words) |
+| ---------------------------------------------------------------- | ---------- |
+| (“13” and “16” are numbers and each of them counts as one word.) |            |
+| The spar box has twenty-one ribs.                                | (6 words)  |
+| (“Twenty-one” is a number and counts as one word.)               |            |
 
 Do not count numbers that identify paragraphs or work steps. These numbers are usually part of the document numbering systems. 
 
@@ -1967,13 +1967,13 @@ Units of measurement usually follow their related number (for example, 10 mA). W
 
 ##### **Examples in STE:** 
 
-|Make sure that the temperature in the room is 10 °C.|(10 words)|
-|---|---|
-|Make sure that the temperature in the room is 10 degrees Celsius.|(10 words)|
-|The unit weighs 20 kg.|(4 words)|
-|The unit weighs 20 kilograms.|(4 words)|
-|The resistance must be 10|(5 words)|
-|The resistance must be 10 ohms.|(5 words)|
+| Make sure that the temperature in the room is 10 °C.              | (10 words) |
+| ----------------------------------------------------------------- | ---------- |
+| Make sure that the temperature in the room is 10 degrees Celsius. | (10 words) |
+| The unit weighs 20 kg.                                            | (4 words)  |
+| The unit weighs 20 kilograms.                                     | (4 words)  |
+| The resistance must be 10                                       | (5 words)  |
+| The resistance must be 10 ohms.                                   | (5 words)  |
 
 ##### **3. Abbreviations** 
 
@@ -1981,13 +1981,13 @@ In technical texts, you can use abbreviations (also acronyms and initialisms) to
 
 ##### **Examples in STE:** 
 
-|The maintenance team does a test of this system each day at 10 a.m.|(13 words)|
-|---|---|
-|(“a.m.” is an abbreviation and counts as one word together with its number.)||
-|During this safety check, obey NASA protocols.|(7 words)|
-|(NASA is an abbreviation (acronym) and counts as one word.)||
-|For remote access, use the VPN.|(6 words)|
-|(VPN is an abbreviation (initialism) and counts as one word.)||
+| The maintenance team does a test of this system each day at 10 a.m.          | (13 words) |
+| ---------------------------------------------------------------------------- | ---------- |
+| (“a.m.” is an abbreviation and counts as one word together with its number.) |            |
+| During this safety check, obey NASA protocols.                               | (7 words)  |
+| (NASA is an abbreviation (acronym) and counts as one word.)                  |            |
+| For remote access, use the VPN.                                              | (6 words)  |
+| (VPN is an abbreviation (initialism) and counts as one word.)                |            |
 
 ##### **4. Alphanumeric identifiers** 
 
@@ -1995,11 +1995,11 @@ An alphanumeric identifier is a combination of letters and numbers that identifi
 
 ##### **Examples in STE:** 
 
-|Examine the No. 1 bearing installation.|(5 words)|
-|---|---|
-|(“No. 1” is an alphanumeric identifier and counts as one word.)||
-|Tag circuit breaker 36L7.|(4 words)|
-|<br>(“36L7” is an alphanumeric identifier and counts as one word.)||
+| Examine the No. 1 bearing installation.                            | (5 words) |
+| ------------------------------------------------------------------ | --------- |
+| (“No. 1” is an alphanumeric identifier and counts as one word.)    |           |
+| Tag circuit breaker 36L7.                                          | (4 words) |
+| <br>(“36L7” is an alphanumeric identifier and counts as one word.) |           |
 
 ##### **5. Quoted text** 
 
@@ -2007,13 +2007,13 @@ Quoted text is usually given in quotation marks (“...”) Words between quotat
 
 ##### **Examples in STE:** 
 
-|Touch the “Service Overview” arrow to select the function page.|(9 words)|
-|---|---|
-|(“Service Overview” is quoted text and counts as one word.)||
-|Release the SHORT-CIRCUIT TEST switch.|(4 words)|
-|(SHORT-CIRCUIT TEST is quoted text and counts as one word.)||
-|C = (A - B) - 0.063 mm|(1 word)|
-|(In STE, a formula is quoted text and counts as one word.)||
+| Touch the “Service Overview” arrow to select the function page. | (9 words) |
+| --------------------------------------------------------------- | --------- |
+| (“Service Overview” is quoted text and counts as one word.)     |           |
+| Release the SHORT-CIRCUIT TEST switch.                          | (4 words) |
+| (SHORT-CIRCUIT TEST is quoted text and counts as one word.)     |           |
+| C = (A - B) - 0.063 mm                                          | (1 word)  |
+| (In STE, a formula is quoted text and counts as one word.)      |           |
 
 ##### **6. Titles, headings, and text on placards and labels** 
 
@@ -2077,35 +2077,35 @@ Groups of words that are not usually adjectives but have the function of an adje
 
 ##### **Examples in STE:** 
 
-|Clean the surface with a soap-and-water solution.|(7 words)|
-|---|---|
-|Use the trial-and-error method.|(4 words)|
+| Clean the surface with a soap-and-water solution. | (7 words) |
+| ------------------------------------------------- | --------- |
+| Use the trial-and-error method.                   | (4 words) |
 
 When you use hyphens in long technical nouns to make them clearer to the reader, a hyphenated group of words also counts as one word. 
 
 ##### **Examples in STE:** 
 
-|Cutoff-switch power connection|(3 words)|
-|---|---|
-|Main-gear-door retraction-winch handle|(3 words)|
+| Cutoff-switch power connection         | (3 words) |
+| -------------------------------------- | --------- |
+| Main-gear-door retraction-winch handle | (3 words) |
 
 # **Section 9 - Writing practices** 
 
-|**Different s**<br>Rule 9.1<br>**How to us**|**Summary of the rules**<br>**entence constructions**<br>Use a different sentence construction to write a sentence when a word-for-word<br>replacement is not sufficient.<br>**e approved words correctly**|
-|---|---|
-|Rule 9.2|Use each approved word correctly.|
-|Rule 9.3|When you use two words together, do not make phrasal verbs.|
-|**Consisten**|**t style**|
-|Rule 9.4|When you select terminology or wording, always use a consistent style.|
-|**General re**<br>|**commendations**<br>|
-|GR-1|The conjunction “that”|
-|GR-2|The preposition “with”|
-|GR-3|How to use pronouns|
-|GR-4|The pronoun “this”|
-|GR-5|False friends|
-|GR-6|Latin abbreviations|
-|GR-7|Inclusive language|
-|GR-8|Possessive form|
+| **Different s**<br>Rule 9.1<br>**How to us** | **Summary of the rules**<br>**entence constructions**<br>Use a different sentence construction to write a sentence when a word-for-word<br>replacement is not sufficient.<br>**e approved words correctly** |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rule 9.2                                     | Use each approved word correctly.                                                                                                                                                                           |
+| Rule 9.3                                     | When you use two words together, do not make phrasal verbs.                                                                                                                                                 |
+| **Consisten**                                | **t style**                                                                                                                                                                                                 |
+| Rule 9.4                                     | When you select terminology or wording, always use a consistent style.                                                                                                                                      |
+| **General re**<br>                           | **commendations**<br>                                                                                                                                                                                       |
+| GR-1                                         | The conjunction “that”                                                                                                                                                                                      |
+| GR-2                                         | The preposition “with”                                                                                                                                                                                      |
+| GR-3                                         | How to use pronouns                                                                                                                                                                                         |
+| GR-4                                         | The pronoun “this”                                                                                                                                                                                          |
+| GR-5                                         | False friends                                                                                                                                                                                               |
+| GR-6                                         | Latin abbreviations                                                                                                                                                                                         |
+| GR-7                                         | Inclusive language                                                                                                                                                                                          |
+| GR-8                                         | Possessive form                                                                                                                                                                                             |
 
 ### **Different sentence constructions** 
 
@@ -2209,13 +2209,13 @@ make many changes to your text. Then, when you change one part of a text, you mu
 
 ##### **Example:** 
 
-|_Non-STE:_|_If cracks aredetected during_<br>_withina certain number of flig_<br>_followingtable:_<br>|_this procedure, the operator mustperform the repair_<br>_ht hoursdependingon crack length. Refer to_<br>|
-|---|---|---|
-||_Crack length detected_|_Time before repair_|
-||_L> ..._<br>_L = ..._<br>_L< ..._|_1000 flight hours_<br>_2000 flight hours_<br>_3000 flight hours_|
-|STE:|If you find cracks, refer to the|table that follows:|
-||If the crack is of this length|Do the repair before|
-||L>_..._<br>L = ...<br>L< ...|1000 flight hours<br>2000 flight hours<br>3000flighthours|
+| _Non-STE:_ | _If cracks aredetected during_<br>_withina certain number of flig_<br>_followingtable:_<br> | _this procedure, the operator mustperform the repair_<br>_ht hoursdependingon crack length. Refer to_<br> |
+| ---------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+|            | _Crack length detected_                                                                     | _Time before repair_                                                                                      |
+|            | _L> ..._<br>_L = ..._<br>_L< ..._                                                           | _1000 flight hours_<br>_2000 flight hours_<br>_3000 flight hours_                                         |
+| STE:       | If you find cracks, refer to the                                                            | table that follows:                                                                                       |
+|            | If the crack is of this length                                                              | Do the repair before                                                                                      |
+|            | L>_..._<br>L = ...<br>L< ...                                                                | 1000 flight hours<br>2000 flight hours<br>3000flighthours                                                 |
 
 In the non-STE example: 
 
@@ -2529,7 +2529,7 @@ For more information, refer to international, national, company, or industry-spe
 
 The possessive form (also known as the Saxon genitive) adds an apostrophe and “s” to form the possessive. For example, “refer to the manufacturer’s instructions.” 
 
-STE is a controlled natural language that emphasizes clear writing and simplicity. While the possessive form is permitted in STE, make sure that you use it correctly. If you are not sure that your sentence is correct, do not use the possessive form. 
+STE is a controlled natural language that emphasises clear writing and simplicity. While the possessive form is permitted in STE, make sure that you use it correctly. If you are not sure that your sentence is correct, do not use the possessive form. 
 
 Other languages do not have this type of possessive form or have a different alternative for the possessive form. As a result, it is not always easy for non-native English readers to understand the possessive form in English. 
 
