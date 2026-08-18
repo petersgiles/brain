@@ -14,9 +14,13 @@ model, not just one company's product.
 5. If anything in `memory.md` is older than 30 days, ask Pete before acting
    on it — it may be stale. `architecture/` doesn't expire the same way —
    it's principles, not project state.
-6. `STE-writing-rules.md` and `STE-dictionary.md` are a condensed copy of the
-   ASD-STE100 Simplified Technical English standard, for when Pete wants
-   technical writing checked or produced against it. Load
-   `STE-writing-rules.md` for the rules themselves; treat `STE-dictionary.md`
-   (one line per word) as a lookup table rather than something to read start
-   to finish.
+6. For ASD-STE100 Simplified Technical English writing checks, use the
+   `asd-ste100` Claude Code skill (installed at
+   `~/.claude/skills/asd-ste100`, from
+   https://github.com/danyuchn/asd-ste100-skill) rather than anything in this
+   repo — this repo used to carry a condensed copy of the standard itself,
+   but that reproduced ASD's copyrighted dictionary/rule text without
+   authorization on a public repo, so it's gone. The skill applies the same
+   underlying rules (one meaning per word, active voice, simple tenses, one
+   instruction per sentence) without redistributing ASD's proprietary
+   content.
