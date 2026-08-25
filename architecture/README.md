@@ -52,6 +52,7 @@ something new, bottom-up when reviewing whether existing code follows it:
 - [Prototype before polishing](principles/prototype-before-polishing.md) — get it working, un-optimised, before tuning it.
 - [Distrust one true way](principles/distrust-one-true-way.md) — no design is optimised for every case its designer didn't anticipate.
 - [Scoped extensibility](principles/scoped-extensibility.md) — self-describing formats for contracts you don't fully control, not license for speculative code generality.
+- [Reuse existing standards](principles/reuse-existing-standards.md) — check for a fitting standard before designing a bespoke one; adopt only the slice you need, keep the seam open for the rest.
 - [Public interfaces are one-way doors](principles/public-interfaces-are-one-way-doors.md) — you can add to a shipped interface freely, but removing or reshaping it costs whoever already depends on it.
 
 ## Patterns
