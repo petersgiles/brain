@@ -74,6 +74,8 @@ something new, bottom-up when reviewing whether existing code follows it:
 ## Standards
 
 - [Name by architectural role](standards/name-by-architectural-role.md) — Adapter/Service/Controller/View/Source/Guard/Loader.
+- [Commenting code](standards/commenting-code.md) — a comment states a fact about the code, never a restatement of it or a narration of the diff.
+- [Commit messages](standards/commit-messages.md) — subject is imperative and concise; a body, when it earns one, carries the why, never a line-by-line narration of the diff.
 - [Many small single-purpose files](standards/many-small-single-purpose-files.md) — no sectioned mega-files.
 - [Directory layout mirrors layering](standards/directory-layout-mirrors-layering.md) — layers get their own directories, not just names.
 - [Uniform self-registering interface](standards/uniform-self-registering-interface.md) — every unit exposes the same minimal method surface.

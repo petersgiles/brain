@@ -1,9 +1,5 @@
 # Further Reading
 
-This playbook is distilled from practice, not derived from a single
-source, but a few external references cover a lot of the same ground in
-more depth and are worth reading directly rather than re-summarised here:
-
 - [The Twelve-Factor App](https://12factor.net) — the deployment/operations
   half of this playbook (config, backing services, disposability, logs)
   leans directly on it.
