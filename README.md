@@ -11,13 +11,16 @@ model, not just one company's product.
 3. Read `design/README.md` too. It's the same kind of durable, cross-linked
    collection but for visual/UX design rather than software architecture —
    much younger and smaller, expect it to grow over time.
-4. Read `memory.md` last. It tells you what's current right now.
-5. Trust `user.md`, `architecture/`, and `design/` over your own
-   assumptions about how to behave or how to design.
-6. If anything in `memory.md` is older than 30 days, ask Pete before acting
-   on it — it may be stale. `architecture/` and `design/` don't expire the
-   same way — they're principles, not project state.
-7. For ASD-STE100 Simplified Technical English writing checks, use the
+4. Read `requirements/README.md` when writing or reviewing documentation,
+   specs, or a backlog — writing standards (EARS) and prioritization
+   frameworks (PABLO, INVEST, MoSCoW).
+5. Read `memory.md` last. It tells you what's current right now.
+6. Trust `user.md`, `architecture/`, `design/`, and `requirements/` over
+   your own assumptions about how to behave or how to design.
+7. If anything in `memory.md` is older than 30 days, ask Pete before acting
+   on it — it may be stale. `architecture/`, `design/`, and `requirements/`
+   don't expire the same way — they're principles, not project state.
+8. For ASD-STE100 Simplified Technical English writing checks, use the
    `asd-ste100` Claude Code skill (installed at
    `~/.claude/skills/asd-ste100`, from
    https://github.com/danyuchn/asd-ste100-skill) rather than anything in
