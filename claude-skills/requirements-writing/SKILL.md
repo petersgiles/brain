@@ -59,8 +59,25 @@ Full detail:
 `~/brain/requirements/prioritization/invest.md`,
 `~/brain/requirements/prioritization/moscow.md`
 
+## Identifying and tagging requirements
+
+- One requirement per file. Frontmatter carries `id`, `tags`, and
+  `moscow` — a requirement's own frontmatter means its own file.
+  Full rationale: `~/brain/requirements/writing/one-requirement-per-file.md`
+- ID: dumb, sequential, context-prefixed (`HOST-001`, `LANG-014`).
+  Assign once, never renumber or reuse.
+  Full rationale: `~/brain/requirements/writing/stable-requirement-ids.md`
+- Tags: the owning module/context plus any cross-cutting concern, drawn
+  from the project's glossary, not invented per file.
+  Full rationale: `~/brain/requirements/writing/requirement-tags.md`,
+  `~/brain/requirements/writing/requirements-glossary.md`
+- Index every ID in a lookup table (ID, tags, MoSCoW, one-line text,
+  link) so a requirement can be found by ID alone.
+
 ## Output shape
 
-- One EARS sentence per requirement, grouped by feature/capability.
-- Each requirement (or story) tagged with its MoSCoW tier.
+- One EARS sentence per requirement file, grouped into a directory per
+  feature/capability.
+- Frontmatter: `id`, `tags`, `moscow`.
+- A lookup table indexing every ID.
 - No prose about how the list was produced — see the rule above.

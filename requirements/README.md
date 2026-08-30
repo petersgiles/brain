@@ -13,6 +13,18 @@ rules as those folders — one idea per file, frontmatter (`name`, `type`,
   commit messages, not the document.
 - [EARS syntax](writing/ears-syntax.md) — the fixed sentence shape
   ("While..., when..., the system shall...") for writing one requirement.
+- [Stable requirement IDs](writing/stable-requirement-ids.md) — a
+  permanent, dumb, sequential ID (context-prefix + number) assigned once,
+  never reused or renumbered.
+- [Requirement tags](writing/requirement-tags.md) — a small controlled
+  set of concern labels in frontmatter, separate from the ID, so
+  classification can change without touching identity.
+- [One requirement per file](writing/one-requirement-per-file.md) — a
+  requirement's own frontmatter means its own file, indexed from a
+  lookup table.
+- [Requirements glossary](writing/requirements-glossary.md) — bounded
+  context names and tags come from one authoritative project glossary,
+  not invented ad hoc per file.
 
 ## Prioritization
 
