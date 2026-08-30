@@ -28,3 +28,20 @@ against, applied to documentation instead of program output.
 current truth — don't describe the change in prose alongside it. History
 of *how a requirement came to be* belongs in a commit message, PR
 description, or changelog, never inline in the requirement itself.
+
+**This shows up more subtly than obvious drafting narration.** Three
+patterns caught in practice, all in an index/README meant to be a plain
+table of contents:
+
+- Framing the whole document as a transformation — "requirements for
+  splitting X into Y" or "generalizing beyond Z" — narrates the journey
+  from a past state to a future one instead of just stating the target.
+  State the destination; the starting point, if it matters, belongs in a
+  separate current-state file, not the framing sentence.
+- Announcing the document's own organizing convention ("one idea per
+  file; this index is a table of contents, not inline content") — the
+  document should silently follow the convention, not narrate that it
+  does.
+- A "Next step" / roadmap section inside the requirements deliverable —
+  that's a work-log entry, not a requirement, even when it's true and
+  useful. Keep it out, or put it in a clearly separate file.
