@@ -25,6 +25,10 @@ rules as those folders — one idea per file, frontmatter (`name`, `type`,
 - [Requirements glossary](writing/requirements-glossary.md) — bounded
   context names and tags come from one authoritative project glossary,
   not invented ad hoc per file.
+- [Decision record template](writing/decision-record-template.md) — a
+  MADR variant (Title/Status/Problem/Decision/Consequences) with
+  Context renamed to Problem, to stop decisions from citing today's
+  implementation files instead of the durable problem.
 
 ## Prioritization
 

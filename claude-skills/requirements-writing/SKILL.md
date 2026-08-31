@@ -74,6 +74,19 @@ Full detail:
 - Index every ID in a lookup table (ID, tags, MoSCoW, one-line text,
   link) so a requirement can be found by ID alone.
 
+## Recording a decision
+
+Use Title/Status/Problem/Decision/Consequences — MADR with "Context"
+renamed to "Problem" specifically to force a durable statement, not a
+description of today's implementation. In Problem: state the technical
+or domain constraint, never a proof-of-concept's file path (it will be
+rewritten) or the author's own private tooling/notes (a future reader
+has no access to it). In Consequences: real trade-offs for the system
+only — never "resolves the open decision about X" or "no new
+requirements needed" — those are facts about the document set, not the
+system, and go stale immediately.
+Full rationale: `~/brain/requirements/writing/decision-record-template.md`
+
 ## Output shape
 
 - One EARS sentence per requirement file, grouped into a directory per

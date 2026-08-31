@@ -60,3 +60,15 @@ decision itself — it goes stale the moment another open question exists,
 and the reader can already see the decision is Accepted from its status.
 Drop it; let the requirement/decision-record cross-references (and, if
 one exists, an index of open questions) carry that instead.
+
+Two more, both caught in practice: citing a proof-of-concept's specific
+file paths (`recognizer.py`, `struggle.py`) as the reason a decision
+exists — the file gets rewritten and the citation goes stale, when the
+actual durable fact (an algorithm's constraint, a domain rule) would
+have outlived it; and referencing the author's own private tooling or
+notes (e.g. a personal knowledge base like `brain`) inside a
+project-facing document — a future reader of the project has no access
+to it and no reason to care. State the durable fact or pattern itself,
+not where the author happened to learn it. See
+[[decision-record-template]] for how this reshapes a MADR-style
+Context section into a Problem section specifically to prevent this.
