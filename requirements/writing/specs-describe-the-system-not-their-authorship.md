@@ -45,3 +45,18 @@ table of contents:
 - A "Next step" / roadmap section inside the requirements deliverable —
   that's a work-log entry, not a requirement, even when it's true and
   useful. Keep it out, or put it in a clearly separate file.
+
+**Decision records get their own version of this.** A MADR-style
+Context section states the technical forces and constraints driving the
+choice — not the fact that a question was open or already answered.
+"X was open. Decision Y already committed Z" narrates the sequence of
+decisions instead of stating Z as a standing architectural fact ("The
+system does Z, per DEC-Y"). Citing a prior decision by ID is fine and
+normal; narrating that it "was committed" or "was decided" is not — cite
+it as a fact the current decision builds on, not an event that happened.
+Likewise, a Consequences bullet that says "resolves the open decision
+about X" is bookkeeping about the document set, not a consequence of the
+decision itself — it goes stale the moment another open question exists,
+and the reader can already see the decision is Accepted from its status.
+Drop it; let the requirement/decision-record cross-references (and, if
+one exists, an index of open questions) carry that instead.
