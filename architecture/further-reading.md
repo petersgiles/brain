@@ -5,7 +5,10 @@
   leans directly on it.
 - *Clean Architecture* (Robert C. Martin) — the layering/dependency-
   direction half (layered authority, one composition root, boundary
-  validation) is this playbook's application of the same ideas.
+  validation) is this playbook's application of the same ideas; its SOLID
+  chapters are the source for [[behavioral-substitutability]] (Liskov
+  Substitution) and [[narrow-role-specific-interfaces]] (Interface
+  Segregation), generalised past their original OOP-inheritance framing.
 - *Domain-Driven Design* (Eric Evans) — [[bounded-contexts]] and
   [[ubiquitous-language]] are this playbook's take on two of its core
   ideas.

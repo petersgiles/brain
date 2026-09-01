@@ -54,6 +54,8 @@ something new, bottom-up when reviewing whether existing code follows it:
 - [Scoped extensibility](principles/scoped-extensibility.md) — self-describing formats for contracts you don't fully control, not license for speculative code generality.
 - [Reuse existing standards](principles/reuse-existing-standards.md) — check for a fitting standard before designing a bespoke one; adopt only the slice you need, keep the seam open for the rest.
 - [Public interfaces are one-way doors](principles/public-interfaces-are-one-way-doors.md) — you can add to a shipped interface freely, but removing or reshaping it costs whoever already depends on it.
+- [Behavioral substitutability](principles/behavioral-substitutability.md) — any implementation of a shared contract must be swappable for another without surprising the caller.
+- [Narrow, role-specific interfaces](principles/narrow-role-specific-interfaces.md) — expose the surface a consumer actually uses, not one interface covering every consumer's needs.
 
 ## Patterns
 
