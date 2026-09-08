@@ -14,12 +14,17 @@ model, not just one company's product.
 4. Read `requirements/README.md` when writing or reviewing documentation,
    specs, or a backlog — writing standards (EARS) and prioritization
    frameworks (PABLO, INVEST, MoSCoW).
-5. Read `memory.md` last. It tells you what's current right now.
-6. Trust `user.md`, `architecture/`, `design/`, and `requirements/` over
+5. Read `ventures/README.md` when a specific business/product idea Pete
+   is exploring comes up — unlike the three folders above, these are
+   project state (a concept and a plan for one venture), not durable
+   methodology, and expire the way `memory.md` does.
+6. Read `memory.md` last. It tells you what's current right now.
+7. Trust `user.md`, `architecture/`, `design/`, and `requirements/` over
    your own assumptions about how to behave or how to design.
-7. If anything in `memory.md` is older than 30 days, ask Pete before acting
-   on it — it may be stale. `architecture/`, `design/`, and `requirements/`
-   don't expire the same way — they're principles, not project state.
+8. If anything in `memory.md` or `ventures/` is older than 30 days, ask
+   Pete before acting on it — it may be stale. `architecture/`, `design/`,
+   and `requirements/` don't expire the same way — they're principles,
+   not project state.
 8. For ASD-STE100 Simplified Technical English writing checks, use the
    `asd-ste100` Claude Code skill (installed at
    `~/.claude/skills/asd-ste100`, from
