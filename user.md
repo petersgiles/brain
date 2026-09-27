@@ -56,6 +56,20 @@ Married, no kids.
 - Leave verification containers running after a test passes. Pete wants to
   check the result himself (browser/curl), not just receive a report that it
   worked — don't tear it down right after an automated check succeeds.
+- Project memory must live in the project's own repo, never in Claude Code's
+  built-in auto-memory store (`~/.claude/projects/*/memory/`). That store is
+  machine-local and not git-committed, so it can't follow Pete across the
+  multiple PCs he works from. For any coding project, keep project memory at
+  `<project>/.claude/memory/` (a `MEMORY.md` index plus typed files, same
+  format as Claude Code's own auto-memory: name/description/metadata.type
+  frontmatter), with a one-line pointer added to that project's own
+  `CLAUDE.md`. This rule overrides Claude Code's default auto-memory
+  instructions wherever they conflict.
+- Never write to project memory on your own judgement. Only save something
+  when Pete has explicitly confirmed it as settled ("remember this", "yes
+  that's right", "that's the decision") — a spitballed idea, a "what if", or
+  a passing comment is not canonical and must not be promoted to memory
+  unasked.
 - Australian English spelling everywhere text is user- or reader-visible —
   UI copy, error messages, docs, comments, commit messages: colour not
   color, localised not localised, optimise not optimise, -ise not -ise
