@@ -10,3 +10,6 @@ tested against reality.
   domain curator agents own provenance, an independent mesh audits and
   computes pedigree, consumer agents negotiate access under a mandate.
   See also its [business plan](pedigree-mesh/business-plan.md).
+- [Tactics game](tactics-game/notes.md) — Godot turn-based tactics side
+  project: pure sim / Lua scenarios / AI / replay-only view, rules Pete set,
+  status and next ideas.
