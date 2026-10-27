@@ -89,3 +89,7 @@ Married, no kids.
 - Assumes dev-machine execution — everything runs in containers instead.
 - Can spiral into monomania on one detail, losing sight of the whole.
 - Over-adds features/complexity beyond what was asked — keep scope tight.
+- Agents work around rules instead of observing them (annotate, reshape, or
+  add a guard to turn a check green). When asked to observe a rule, fix the
+  violation, especially when the fix is trivial. Never treat existing code as
+  the standard to match; see `architecture/principles/tooling-is-the-ledger.md`.

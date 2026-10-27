@@ -50,6 +50,7 @@ something new, bottom-up when reviewing whether existing code follows it:
 - [Economise programmer time](principles/economise-programmer-time.md) — programmer time is the expensive resource; default to spending machine time instead.
 - [Prefer generated code](principles/prefer-generated-code.md) — write a generator for repetitive, error-prone hand-written shapes.
 - [Prototype before polishing](principles/prototype-before-polishing.md) — get it working, un-optimised, before tuning it.
+- [Tooling is the ledger](principles/tooling-is-the-ledger.md) — code is a draft; move every checkable rule into tooling that runs after each change, and fix violations instead of working around them.
 - [Distrust one true way](principles/distrust-one-true-way.md) — no design is optimised for every case its designer didn't anticipate.
 - [Scoped extensibility](principles/scoped-extensibility.md) — self-describing formats for contracts you don't fully control, not license for speculative code generality.
 - [Reuse existing standards](principles/reuse-existing-standards.md) — check for a fitting standard before designing a bespoke one; adopt only the slice you need, keep the seam open for the rest.
