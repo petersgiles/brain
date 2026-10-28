@@ -27,3 +27,6 @@
   thing" taken dogmatically fights against the task a real user showed up
   for. [[public-interfaces-are-one-way-doors]] and the caveats inside
   [[modularity]] and [[well-formed-interface]] come from here.
+- [The Testing Trophy and Testing Classifications](https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications)
+  (Kent C. Dodds) — the weighting in [[tests-follow-value-not-ceremony]]:
+  static checks at the base, most effort on integration, few end-to-end.
